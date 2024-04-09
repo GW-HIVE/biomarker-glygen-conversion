@@ -1,0 +1,3693 @@
+{
+  "assessed_biomarker_entity": "Interleukin-6 (IL6)",
+  "assessed_entity_type": "protein",
+  "components": {
+    "protein": [
+      {
+        "accession": "P05231-1",
+        "name": "Interleukin-6",
+        "evidence": [
+          {
+            "id": "GLY_000625",
+            "database": "GlyGen",
+            "url": "https://data.glygen.org/GLY_000625"
+          },
+          {
+            "id": "10914713",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/10914713"
+          },
+          {
+            "id": "32259560",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32259560"
+          },
+          {
+            "id": "32428990",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32428990"
+          },
+          {
+            "id": "32677844",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32677844"
+          },
+          {
+            "id": "32438331",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32438331"
+          },
+          {
+            "id": "32475810",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32475810"
+          },
+          {
+            "id": "32234467",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32234467"
+          },
+          {
+            "id": "32442528",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32442528"
+          },
+          {
+            "id": "32161940",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32161940"
+          },
+          {
+            "id": "32425269",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32425269"
+          },
+          {
+            "id": "32385523",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32385523"
+          },
+          {
+            "id": "32181911",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32181911"
+          },
+          {
+            "id": "32438331",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32438331"
+          },
+          {
+            "id": "32344321",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32344321"
+          },
+          {
+            "id": "32286245",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32286245"
+          },
+          {
+            "id": "32479790",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32479790"
+          },
+          {
+            "id": "32369209",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32369209"
+          },
+          {
+            "id": "32479790",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32479790"
+          },
+          {
+            "id": "32369209",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32369209"
+          },
+          {
+            "id": "32479790",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32479790"
+          },
+          {
+            "id": "32369209",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32369209"
+          },
+          {
+            "id": "32479790",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32479790"
+          },
+          {
+            "id": "32369209",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32369209"
+          },
+          {
+            "id": "32479790",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32479790"
+          },
+          {
+            "id": "32369209",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32369209"
+          },
+          {
+            "id": "32479790",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32479790"
+          },
+          {
+            "id": "32369209",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32369209"
+          },
+          {
+            "id": "32479790",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32479790"
+          },
+          {
+            "id": "32369209",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32369209"
+          },
+          {
+            "id": "32479790",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32479790"
+          },
+          {
+            "id": "32369209",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32369209"
+          },
+          {
+            "id": "32479790",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32479790"
+          },
+          {
+            "id": "32369209",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32369209"
+          },
+          {
+            "id": "32479790",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32479790"
+          },
+          {
+            "id": "32369209",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32369209"
+          },
+          {
+            "id": "32479790",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32479790"
+          },
+          {
+            "id": "32369209",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32369209"
+          },
+          {
+            "id": "32430456",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/32430456"
+          },
+          {
+            "id": "28848164",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/28848164"
+          },
+          {
+            "id": "31772933",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/31772933"
+          },
+          {
+            "id": "31772933",
+            "database": "PubMed",
+            "url": "https://glygen.org/publication/PubMed/31772933"
+          }
+        ]
+      }
+    ]
+  },
+  "instances": [
+    {
+      "best_biomarker_type": "prognostic",
+      "status": "increased IL6 level",
+      "literature_evidence": "Univariate analysis of all patients demonstrated that an extent of disease (EOD) on bone scanning > or = 1, IL-6 > or = 7 pg/ml, PS > or = 1, PSA > 100 ng/ml, and ALP > 620 IU/liter were associated with a significantly lower survival rate than their respective counterparts. In multivariate analysis, however, the only two significant prognostic factors were EOD and IL-6. These results indicate that the serum IL-6 level is a significant prognostic factor for prostate cancer as well as EOD. [PMID:10914713]",
+      "loinc_code": "26881-3",
+      "tissue": {
+        "name": "blood",
+        "namespace": "UBERON",
+        "id": "0000178",
+        "url": "http://purl.obolibrary.org/obo/UBERON_0000178"
+      },
+      "disease": {
+        "disease_id": "DOID:10283",
+        "recommended_name": {
+          "id": "DOID:10283",
+          "resource": "Disease Ontology",
+          "url": "http://disease-ontology.org/term/DOID:10283",
+          "name": "prostate cancer",
+          "description": "A male reproductive organ cancer that is located_in the prostate."
+        },
+        "synonyms": [
+          {
+            "id": "DOID:10283",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:10283",
+            "name": "NGP - new growth of prostate"
+          },
+          {
+            "id": "DOID:10283",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:10283",
+            "name": "hereditary prostate cancer"
+          },
+          {
+            "id": "DOID:10283",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:10283",
+            "name": "malignant tumor of the prostate"
+          },
+          {
+            "id": "DOID:10283",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:10283",
+            "name": "prostate cancer, familial"
+          },
+          {
+            "id": "DOID:10283",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:10283",
+            "name": "prostate neoplasm"
+          },
+          {
+            "id": "DOID:10283",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:10283",
+            "name": "prostatic cancer"
+          },
+          {
+            "id": "DOID:10283",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:10283",
+            "name": "prostatic neoplasm"
+          },
+          {
+            "id": "DOID:10283",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:10283",
+            "name": "tumor of the prostate"
+          },
+          {
+            "id": "MONDO:0012597",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012597",
+            "name": "prostate cancer, hereditary, 9"
+          },
+          {
+            "id": "MONDO:0012597",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012597",
+            "name": "prostate cancer, hereditary, 9"
+          },
+          {
+            "id": "MONDO:0012597",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012597",
+            "name": "prostate cancer, hereditary, type 9"
+          },
+          {
+            "id": "MONDO:0012597",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012597",
+            "name": "HPC9"
+          },
+          {
+            "id": "MONDO:0012741",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012741",
+            "name": "prostate cancer, hereditary, 12",
+            "description": "Any familial prostate cancer in which the cause of the disease is a mutation in the EHBP1 gene."
+          },
+          {
+            "id": "MONDO:0012741",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012741",
+            "name": "EHBP1 familial prostate cancer"
+          },
+          {
+            "id": "MONDO:0012741",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012741",
+            "name": "familial prostate cancer caused by mutation in EHBP1"
+          },
+          {
+            "id": "MONDO:0012741",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012741",
+            "name": "prostate cancer, hereditary, 12"
+          },
+          {
+            "id": "MONDO:0012741",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012741",
+            "name": "prostate cancer, hereditary, type 12"
+          },
+          {
+            "id": "MONDO:0012741",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012741",
+            "name": "HPC12"
+          },
+          {
+            "id": "MONDO:0012244",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012244",
+            "name": "prostate cancer, hereditary, 5"
+          },
+          {
+            "id": "MONDO:0012244",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012244",
+            "name": "prostate cancer, hereditary, 5"
+          },
+          {
+            "id": "MONDO:0012244",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012244",
+            "name": "prostate cancer, hereditary, type 5"
+          },
+          {
+            "id": "MONDO:0012244",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012244",
+            "name": "HPC5"
+          },
+          {
+            "id": "MONDO:0012093",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012093",
+            "name": "prostate cancer, hereditary, 3"
+          },
+          {
+            "id": "MONDO:0012093",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012093",
+            "name": "prostate cancer, hereditary, 3"
+          },
+          {
+            "id": "MONDO:0012093",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012093",
+            "name": "prostate cancer, hereditary, type 3"
+          },
+          {
+            "id": "MONDO:0012093",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012093",
+            "name": "prostate cancer, susceptibility to, 3"
+          },
+          {
+            "id": "MONDO:0012093",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012093",
+            "name": "HPC3"
+          },
+          {
+            "id": "MONDO:0012094",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012094",
+            "name": "prostate cancer, hereditary, 4"
+          },
+          {
+            "id": "MONDO:0012094",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012094",
+            "name": "prostate cancer, hereditary, 4"
+          },
+          {
+            "id": "MONDO:0012094",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012094",
+            "name": "prostate cancer, hereditary, type 4"
+          },
+          {
+            "id": "MONDO:0012094",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012094",
+            "name": "prostate cancer, susceptibility to, 4"
+          },
+          {
+            "id": "MONDO:0012094",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012094",
+            "name": "HPC4"
+          },
+          {
+            "id": "MONDO:0012094",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012094",
+            "name": "prostate cancer, hereditary, on chromosome 7"
+          },
+          {
+            "id": "MONDO:0012758",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012758",
+            "name": "prostate cancer, hereditary, 13",
+            "description": "Any familial prostate cancer in which the cause of the disease is a mutation in the MSMB gene."
+          },
+          {
+            "id": "MONDO:0012758",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012758",
+            "name": "MSMB familial prostate cancer"
+          },
+          {
+            "id": "MONDO:0012758",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012758",
+            "name": "familial prostate cancer caused by mutation in MSMB"
+          },
+          {
+            "id": "MONDO:0012758",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012758",
+            "name": "prostate cancer, hereditary, 13"
+          },
+          {
+            "id": "MONDO:0012758",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012758",
+            "name": "prostate cancer, hereditary, type 13"
+          },
+          {
+            "id": "MONDO:0012758",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012758",
+            "name": "HPC13"
+          },
+          {
+            "id": "MONDO:0011270",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0011270",
+            "name": "prostate cancer, hereditary, 8"
+          },
+          {
+            "id": "MONDO:0011270",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0011270",
+            "name": "prostate cancer, hereditary, 8"
+          },
+          {
+            "id": "MONDO:0011270",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0011270",
+            "name": "prostate cancer, hereditary, type 8"
+          },
+          {
+            "id": "MONDO:0011270",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0011270",
+            "name": "HPC8"
+          },
+          {
+            "id": "MONDO:0011270",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0011270",
+            "name": "predisposing for prostate cancer"
+          },
+          {
+            "id": "MONDO:0011270",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0011270",
+            "name": "prostate cancer, susceptibility to"
+          },
+          {
+            "id": "MONDO:0012300",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012300",
+            "name": "prostate cancer, hereditary, 6"
+          },
+          {
+            "id": "MONDO:0012300",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012300",
+            "name": "prostate cancer, hereditary, 6"
+          },
+          {
+            "id": "MONDO:0012300",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012300",
+            "name": "prostate cancer, hereditary, type 6"
+          },
+          {
+            "id": "MONDO:0012300",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012300",
+            "name": "HPC6"
+          },
+          {
+            "id": "MONDO:0012300",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012300",
+            "name": "prostate cancer, susceptibility to"
+          },
+          {
+            "id": "MONDO:0012620",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012620",
+            "name": "prostate cancer, hereditary, 10"
+          },
+          {
+            "id": "MONDO:0012620",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012620",
+            "name": "HPC10"
+          },
+          {
+            "id": "MONDO:0012620",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012620",
+            "name": "prostate cancer, hereditary, 10"
+          },
+          {
+            "id": "MONDO:0023122",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0023122",
+            "name": "familial prostate carcinoma",
+            "description": "Prostate carcinoma that has developed in relatives of patients with a history of prostate carcinoma."
+          },
+          {
+            "id": "MONDO:0023122",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0023122",
+            "name": "familial prostate cancer"
+          },
+          {
+            "id": "MONDO:0023122",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0023122",
+            "name": "hereditary prostate cancer"
+          },
+          {
+            "id": "MONDO:0023122",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0023122",
+            "name": "hereditary prostate carcinoma"
+          },
+          {
+            "id": "MONDO:0023122",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0023122",
+            "name": "prostate cancer, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0023122",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0023122",
+            "name": "prostate cancer, familial, susceptibility to, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0023122",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0023122",
+            "name": "prostate cancer, somatic"
+          },
+          {
+            "id": "MONDO:0023122",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0023122",
+            "name": "prostate cancer, susceptibility to, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0023122",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0023122",
+            "name": "prostate cancer, familial"
+          },
+          {
+            "id": "MONDO:0023122",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0023122",
+            "name": "prostate cancer, hereditary"
+          },
+          {
+            "id": "MONDO:0012470",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012470",
+            "name": "prostate cancer, hereditary, 7"
+          },
+          {
+            "id": "MONDO:0012470",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012470",
+            "name": "HPC7"
+          },
+          {
+            "id": "MONDO:0012470",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012470",
+            "name": "prostate cancer, hereditary, 7"
+          },
+          {
+            "id": "MONDO:0012470",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012470",
+            "name": "prostate cancer aggressiveness"
+          },
+          {
+            "id": "MONDO:0011098",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0011098",
+            "name": "prostate cancer, hereditary, 1",
+            "description": "Any familial prostate cancer in which the cause of the disease is a mutation in the RNASEL gene."
+          },
+          {
+            "id": "MONDO:0011098",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0011098",
+            "name": "RNASEL familial prostate cancer"
+          },
+          {
+            "id": "MONDO:0011098",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0011098",
+            "name": "familial prostate cancer caused by mutation in RNASEL"
+          },
+          {
+            "id": "MONDO:0011098",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0011098",
+            "name": "prostate cancer 1"
+          },
+          {
+            "id": "MONDO:0011098",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0011098",
+            "name": "prostate cancer, hereditary, 1"
+          },
+          {
+            "id": "MONDO:0011098",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0011098",
+            "name": "prostate cancer, hereditary, type 1"
+          },
+          {
+            "id": "MONDO:0011098",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0011098",
+            "name": "HPC1"
+          },
+          {
+            "id": "MONDO:0011098",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0011098",
+            "name": "Prca1"
+          },
+          {
+            "id": "MONDO:0012768",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012768",
+            "name": "prostate cancer, hereditary, 11"
+          },
+          {
+            "id": "MONDO:0012768",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012768",
+            "name": "HPC11"
+          },
+          {
+            "id": "MONDO:0012768",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012768",
+            "name": "prostate cancer, hereditary, 11"
+          },
+          {
+            "id": "MONDO:0012769",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012769",
+            "name": "prostate cancer, hereditary, 14"
+          },
+          {
+            "id": "MONDO:0012769",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012769",
+            "name": "HPC14"
+          },
+          {
+            "id": "MONDO:0012769",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012769",
+            "name": "prostate cancer, hereditary, 14"
+          },
+          {
+            "id": "MONDO:0012770",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012770",
+            "name": "prostate cancer, hereditary, 15"
+          },
+          {
+            "id": "MONDO:0012770",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012770",
+            "name": "HPC15"
+          },
+          {
+            "id": "MONDO:0012770",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012770",
+            "name": "prostate cancer, hereditary, 15"
+          },
+          {
+            "id": "MONDO:0010257",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0010257",
+            "name": "prostate cancer, hereditary, X-linked 1"
+          },
+          {
+            "id": "MONDO:0010257",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0010257",
+            "name": "HPCX1"
+          },
+          {
+            "id": "MONDO:0010257",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0010257",
+            "name": "prostate cancer, hereditary, X-linked 1"
+          },
+          {
+            "id": "MONDO:0010257",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0010257",
+            "name": "prostate cancer susceptibility, X-linked"
+          },
+          {
+            "id": "MONDO:0010405",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0010405",
+            "name": "prostate cancer, hereditary, X-linked 2"
+          },
+          {
+            "id": "MONDO:0010405",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0010405",
+            "name": "HPCX2"
+          },
+          {
+            "id": "MONDO:0010405",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0010405",
+            "name": "prostate cancer, hereditary, X-linked 2"
+          },
+          {
+            "id": "MIM:611868",
+            "resource": "MIM",
+            "url": "https://www.omim.org/entry/611868",
+            "name": "Prostate cancer, hereditary, 12",
+            "description": "Prostate cancer, hereditary, 12"
+          },
+          {
+            "id": "MIM:611928",
+            "resource": "MIM",
+            "url": "https://www.omim.org/entry/611928",
+            "name": "Prostate cancer, hereditary, 13",
+            "description": "Prostate cancer, hereditary, 13"
+          },
+          {
+            "id": "MIM:176807",
+            "resource": "MIM",
+            "url": "https://www.omim.org/entry/176807",
+            "name": "Prostate cancer",
+            "description": "Prostate cancer"
+          },
+          {
+            "id": "MIM:601518",
+            "resource": "MIM",
+            "url": "https://www.omim.org/entry/601518",
+            "name": "Prostate cancer, hereditary, 1",
+            "description": "Prostate cancer, hereditary, 1"
+          },
+          {
+            "id": "MIM:611955",
+            "resource": "MIM",
+            "url": "https://www.omim.org/entry/611955",
+            "name": "Prostate cancer, hereditary, 11",
+            "description": "Prostate cancer, hereditary, 11"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        },
+        {
+          "id": "10914713",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/10914713"
+        },
+        {
+          "id": "32479790",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32479790"
+        },
+        {
+          "id": "32369209",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32369209"
+        }
+      ]
+    },
+    {
+      "best_biomarker_type": "monitoring",
+      "status": "increased IL6 level",
+      "notes": "Measured in serum (UN:0001977) as well.",
+      "literature_evidence": "Serial measurement of circulating IL-6 levels may be important in identifying disease progression among COVID-19-infected patients. [PMID:32259560] The decrease of IL-6 was closely related to treatment effectiveness, while the increase of IL-6 indicated disease exacerbation. Collectively, the dynamic change of IL-6 level can be used as a marker for disease monitoring in patients with severe COVID-19. [PMID:32428990] Elevated levels of IL-6, D-dimer, CRP, LDH, and ferritin all had an independent increased risk for the clinical outcomes assessed (ICU admission, invasive ventilatory support and death), which were statistically significant. [PMID:32677844] Clinical biomarkers for chronic inflammation, in particular Interleukin-6, predict the severity of COVID-19. [PMID:32438331] C-reactive protein, serum amyloid A, interleukin-6, lactate dehydrogenase, neutrophil-to-lymphocyte ratio, D-dimer, cardiac troponin, and renal biomarkers showed significantly higher levels in patients with severe complications of COVID-19 infection compared to their non-severe counterparts. [PMID:32475810] Interleukin-6 (IL-6) plays an important role in cytokine release syndrome. If it is possible to block the signal transduction pathway of IL-6, it is expected to become a new method for the treatment of severe COVID-19 patients. [PMID:32234467] findings in this study include determining independent associations between biomarkers for inflammation (interleukin-6) and thrombosis (D-dimer) and mortality. [PMID:32442528] lower lymphocyte counts, higher leukocyte counts and neutrophil-lymphocyte ratio (NLR), lower monocytes, eosinophils, and basophils elevated inflammatory cytokines. T cells significantly decreased, helper T (Th) cells and suppressor T cells were below normal levels naive Th cells increased and memory Th cells decreased. lower levels of regulatory T cells. [PMID:32161940] The maximal level of IL-6, followed by CRP level, was highly predictive of the need for mechanical ventilation. This suggests the possibility of using IL-6 or CRP level to guide escalation of treatment in patients with COVID-19-related hyperinflammatory syndrome. [PMID:32425269] Since the proportionate rise of IL-6 is correlated with disease severity, this study can prove ground-breaking. [PMID:32475810] Up-regulated IL-6 levels may serve as a potential marker for predicting progression of COVID19 patients. [PMID:32385523] IL-6 and d-D were closely related to the occurrence of severe COVID-19 in the adult patients, and their combined detection had the highest specificity and sensitivity for early prediction of the severity of COVID-19 patients, which has important clinical value. [PMID:32181911]",
+      "loinc_code": "26881-3",
+      "tissue": {
+        "name": "blood",
+        "namespace": "UBERON",
+        "id": "0000178",
+        "url": "http://purl.obolibrary.org/obo/UBERON_0000178"
+      },
+      "disease": {
+        "disease_id": "DOID:0080600",
+        "recommended_name": {
+          "id": "DOID:0080600",
+          "resource": "Disease Ontology",
+          "url": "http://disease-ontology.org/term/DOID:0080600",
+          "name": "COVID-19",
+          "description": "A Coronavirus infection that is characterized by fever, cough and shortness of breath and that has_material_basis_in SARS-CoV-2."
+        },
+        "synonyms": [
+          {
+            "id": "DOID:0080600",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:0080600",
+            "name": "2019 Novel Coronavirus (2019-nCoV)"
+          },
+          {
+            "id": "DOID:0080600",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:0080600",
+            "name": "2019-nCoV infection"
+          },
+          {
+            "id": "DOID:0080600",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:0080600",
+            "name": "Wuhan coronavirus infection"
+          },
+          {
+            "id": "DOID:0080600",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:0080600",
+            "name": "Wuhan seafood market pneumonia virus infection"
+          },
+          {
+            "id": "DOID:0080600",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:0080600",
+            "name": "COVID19"
+          },
+          {
+            "id": "DOID:0080600",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:0080600",
+            "name": "SARS-CoV-2 infection"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        },
+        {
+          "id": "32259560",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32259560"
+        },
+        {
+          "id": "32428990",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32428990"
+        },
+        {
+          "id": "32677844",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32677844"
+        },
+        {
+          "id": "32438331",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32438331"
+        },
+        {
+          "id": "32475810",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32475810"
+        },
+        {
+          "id": "32234467",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32234467"
+        },
+        {
+          "id": "32442528",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32442528"
+        },
+        {
+          "id": "32161940",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32161940"
+        },
+        {
+          "id": "32425269",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32425269"
+        },
+        {
+          "id": "32385523",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32385523"
+        },
+        {
+          "id": "32181911",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32181911"
+        },
+        {
+          "id": "32344321",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32344321"
+        },
+        {
+          "id": "32286245",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32286245"
+        }
+      ]
+    },
+    {
+      "best_biomarker_type": "prognostic",
+      "status": "increased IL6 level",
+      "notes": "Measured in serum (UN:0001977) as well",
+      "literature_evidence": "IL-6 plays multifaceted roles in regulation of vascular leakage, complement activation, and coagulation pathways, which ultimately causes poor outcomes for acute respiratory distress syndrome, multiple organ dysfunction syndrome, and SARS. [PMID:32479790] Low lymphocytes, increased IL-6, CRP, PCT, D dimer, and LDH, these finds were similar to previous studies. The increase of these inflammatory indexes indicates that the infected patients were in inflammatory state, which may be closely related to the inflammatory storm. The increase of the cancer biomarkers in patients with COVID-19, especially in severe and critical patients, suggests that inflammation is closely related to the development of COVID-19. [PMID:32369209]",
+      "loinc_code": "26881-3",
+      "tissue": {
+        "name": "blood",
+        "namespace": "UBERON",
+        "id": "0000178",
+        "url": "http://purl.obolibrary.org/obo/UBERON_0000178"
+      },
+      "disease": {
+        "disease_id": "DOID:1324",
+        "recommended_name": {
+          "id": "DOID:1324",
+          "resource": "Disease Ontology",
+          "url": "http://disease-ontology.org/term/DOID:1324",
+          "name": "lung cancer",
+          "description": "A respiratory system cancer that is located_in the lung."
+        },
+        "synonyms": [
+          {
+            "id": "MONDO:0012159",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012159",
+            "name": "lung cancer susceptibility 1"
+          },
+          {
+            "id": "MONDO:0012159",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012159",
+            "name": "LNCR1"
+          },
+          {
+            "id": "MONDO:0012159",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012159",
+            "name": "lung cancer susceptibility"
+          },
+          {
+            "id": "MONDO:0012159",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012159",
+            "name": "lung cancer susceptibility 1"
+          },
+          {
+            "id": "MONDO:0012942",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012942",
+            "name": "lung cancer susceptibility 3"
+          },
+          {
+            "id": "MONDO:0012942",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012942",
+            "name": "LNCR3"
+          },
+          {
+            "id": "MONDO:0012942",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012942",
+            "name": "lung cancer susceptibility 3"
+          },
+          {
+            "id": "MONDO:0012942",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012942",
+            "name": "adenocarcinoma of lung, susceptibility to"
+          },
+          {
+            "id": "MONDO:0012955",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012955",
+            "name": "lung cancer susceptibility 4"
+          },
+          {
+            "id": "MONDO:0012955",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012955",
+            "name": "LNCR4"
+          },
+          {
+            "id": "MONDO:0012955",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0012955",
+            "name": "lung cancer susceptibility 4"
+          },
+          {
+            "id": "MONDO:0013631",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0013631",
+            "name": "lung cancer susceptibility 5"
+          },
+          {
+            "id": "MONDO:0013631",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0013631",
+            "name": "LNCR5"
+          },
+          {
+            "id": "MONDO:0013631",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0013631",
+            "name": "lung cancer susceptibility 5"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "lung cancer",
+            "description": "A malignant neoplasm involving the lung."
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "adenocarcinoma of lung, response to tyrosine kinase inhibitor in, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "adenocarcinoma of lung, somatic"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "cancer of lung"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "lung cancer"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "lung cancer, protection against, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "lung cancer, resistance to, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "lung cancer, somatic"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "lung cancer, susceptibility to, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "malignant lung neoplasm"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "malignant lung tumor"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "malignant lung tumour"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "malignant neoplasm of lung"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "malignant neoplasm of the lung"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "malignant tumor of lung"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "malignant tumor of the lung"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "malignant tumour of lung"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "malignant tumour of the lung"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "nonsmall cell lung cancer, response to tyrosine kinase inhibitor in, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "nonsmall cell lung cancer, somatic"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "nonsmall cell lung cancer, susceptibility to, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "Nonsmall cell lung cancer"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "alveolar cell carcinoma"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "lung cancer, protection against"
+          },
+          {
+            "id": "MONDO:0008903",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0008903",
+            "name": "lung neoplasm"
+          },
+          {
+            "id": "MIM:211980",
+            "resource": "MIM",
+            "url": "https://www.omim.org/entry/211980",
+            "name": "Lung cancer",
+            "description": "Lung cancer"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        },
+        {
+          "id": "32479790",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32479790"
+        },
+        {
+          "id": "32369209",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32369209"
+        }
+      ]
+    },
+    {
+      "best_biomarker_type": "prognostic",
+      "status": "increased IL6 level",
+      "notes": "Measured in serum (UN:0001977) as well",
+      "literature_evidence": "IL-6 plays multifaceted roles in regulation of vascular leakage, complement activation, and coagulation pathways, which ultimately causes poor outcomes for acute respiratory distress syndrome, multiple organ dysfunction syndrome, and SARS. [PMID:32479790] Low lymphocytes, increased IL-6, CRP, PCT, D dimer, and LDH, these finds were similar to previous studies. The increase of these inflammatory indexes indicates that the infected patients were in inflammatory state, which may be closely related to the inflammatory storm. The increase of the cancer biomarkers in patients with COVID-19, especially in severe and critical patients, suggests that inflammation is closely related to the development of COVID-19. [PMID:32369209]",
+      "loinc_code": "26881-3",
+      "tissue": {
+        "name": "blood",
+        "namespace": "UBERON",
+        "id": "0000178",
+        "url": "http://purl.obolibrary.org/obo/UBERON_0000178"
+      },
+      "disease": {
+        "disease_id": "DOID:11054",
+        "recommended_name": {
+          "id": "DOID:11054",
+          "resource": "Disease Ontology",
+          "url": "http://disease-ontology.org/term/DOID:11054",
+          "name": "urinary bladder cancer",
+          "description": "An urinary system cancer that results_in malignant growth located_in the urinary bladder."
+        },
+        "synonyms": [
+          {
+            "id": "DOID:11054",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:11054",
+            "name": "bladder cancer"
+          },
+          {
+            "id": "DOID:11054",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:11054",
+            "name": "tumor of the bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "urinary bladder cancer",
+            "description": "A primary or metastatic malignant neoplasm involving the bladder."
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "tumor of the bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "tumour of the bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "bladder cancer, somatic"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "cancer of urinary bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant bladder neoplasm"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant bladder tumor"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant bladder tumour"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant neoplasm of bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant neoplasm of the bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant neoplasm of the urinary bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant neoplasm of urinary bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant neoplasm, bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant neoplasm, urinary bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant tumor of bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant tumor of the bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant tumor of the urinary bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant tumor of urinary bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant tumor, urinary bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant tumour of bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant tumour of the bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant tumour of the urinary bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant tumour of urinary bladder"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant urinary bladder neoplasm"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant urinary bladder tumor"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "malignant urinary bladder tumour"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "urinary bladder cancer"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "urinary bladder malignant neoplasm"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "urinary bladder malignant tumor"
+          },
+          {
+            "id": "MONDO:0001187",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0001187",
+            "name": "urinary bladder malignant tumour"
+          },
+          {
+            "id": "MIM:109800",
+            "resource": "MIM",
+            "url": "https://www.omim.org/entry/109800",
+            "name": "Bladder cancer",
+            "description": "Bladder cancer"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        },
+        {
+          "id": "32479790",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32479790"
+        },
+        {
+          "id": "32369209",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32369209"
+        }
+      ]
+    },
+    {
+      "best_biomarker_type": "prognostic",
+      "status": "increased IL6 level",
+      "notes": "Measured in serum (UN:0001977) as well",
+      "literature_evidence": "IL-6 plays multifaceted roles in regulation of vascular leakage, complement activation, and coagulation pathways, which ultimately causes poor outcomes for acute respiratory distress syndrome, multiple organ dysfunction syndrome, and SARS. [PMID:32479790] Low lymphocytes, increased IL-6, CRP, PCT, D dimer, and LDH, these finds were similar to previous studies. The increase of these inflammatory indexes indicates that the infected patients were in inflammatory state, which may be closely related to the inflammatory storm. The increase of the cancer biomarkers in patients with COVID-19, especially in severe and critical patients, suggests that inflammation is closely related to the development of COVID-19. [PMID:32369209]",
+      "loinc_code": "26881-3",
+      "tissue": {
+        "name": "blood",
+        "namespace": "UBERON",
+        "id": "0000178",
+        "url": "http://purl.obolibrary.org/obo/UBERON_0000178"
+      },
+      "disease": {
+        "disease_id": "DOID:1612",
+        "recommended_name": {
+          "id": "DOID:1612",
+          "resource": "Disease Ontology",
+          "url": "http://disease-ontology.org/term/DOID:1612",
+          "name": "breast cancer",
+          "description": "A thoracic cancer that originates in the mammary gland."
+        },
+        "synonyms": [
+          {
+            "id": "DOID:1612",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1612",
+            "name": "breast tumor"
+          },
+          {
+            "id": "DOID:1612",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1612",
+            "name": "malignant neoplasm of breast"
+          },
+          {
+            "id": "DOID:1612",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1612",
+            "name": "malignant tumor of the breast"
+          },
+          {
+            "id": "DOID:1612",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1612",
+            "name": "mammary cancer"
+          },
+          {
+            "id": "DOID:1612",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1612",
+            "name": "mammary tumor"
+          },
+          {
+            "id": "DOID:1612",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1612",
+            "name": "primary breast cancer"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "hereditary breast carcinoma",
+            "description": "Breast carcinoma that has developed in relatives of patients with history of breast carcinoma."
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer susceptibility, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, early-onset, susceptibility to, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, invasive ductal, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, lobular, somatic"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, male, susceptibility to, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, protection against, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, somatic"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, susceptibility to, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "familial breast cancer"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "familial breast carcinoma"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "familial cancer of breast"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "familial cancer of the breast"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "hereditary breast cancer"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "hereditary breast carcinoma"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, familial"
+          },
+          {
+            "id": "MONDO:0016419",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0016419",
+            "name": "breast cancer, familial Male"
+          },
+          {
+            "id": "MIM:114480",
+            "resource": "MIM",
+            "url": "https://www.omim.org/entry/114480",
+            "name": "Breast cancer",
+            "description": "Breast cancer"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        },
+        {
+          "id": "32479790",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32479790"
+        },
+        {
+          "id": "32369209",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32369209"
+        }
+      ]
+    },
+    {
+      "best_biomarker_type": "prognostic",
+      "status": "increased IL6 level",
+      "notes": "Measured in serum (UN:0001977) as well",
+      "literature_evidence": "IL-6 plays multifaceted roles in regulation of vascular leakage, complement activation, and coagulation pathways, which ultimately causes poor outcomes for acute respiratory distress syndrome, multiple organ dysfunction syndrome, and SARS. [PMID:32479790] Low lymphocytes, increased IL-6, CRP, PCT, D dimer, and LDH, these finds were similar to previous studies. The increase of these inflammatory indexes indicates that the infected patients were in inflammatory state, which may be closely related to the inflammatory storm. The increase of the cancer biomarkers in patients with COVID-19, especially in severe and critical patients, suggests that inflammation is closely related to the development of COVID-19. [PMID:32369209]",
+      "loinc_code": "26881-3",
+      "tissue": {
+        "name": "blood",
+        "namespace": "UBERON",
+        "id": "0000178",
+        "url": "http://purl.obolibrary.org/obo/UBERON_0000178"
+      },
+      "disease": {
+        "disease_id": "DOID:9256",
+        "recommended_name": {
+          "id": "DOID:9256",
+          "resource": "Disease Ontology",
+          "url": "http://disease-ontology.org/term/DOID:9256",
+          "name": "colorectal cancer",
+          "description": "A large intestine cancer that is located_in the colon and/or located_in the rectum."
+        },
+        "synonyms": [
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "colorectal cancer",
+            "description": "A primary or metastatic malignant neoplasm that affects the colon or rectum. Representative examples include carcinoma, lymphoma, and sarcoma."
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "cancer of colorectum"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "cancer of large bowel"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "cancer of large intestine"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "cancer of the large bowel"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "colon cancer, advanced, somatic"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "colon cancer, somatic"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "colorectal cancer"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "colorectal cancer with chromosomal instability, somatic"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "colorectal cancer, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "colorectal cancer, somatic"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "colorectal cancer, susceptibility to, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "colorectum cancer"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant colorectal neoplasm"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant colorectal tumor"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant colorectal tumour"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant colorectum neoplasm"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant large bowel neoplasm"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant large bowel tumor"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant large bowel tumour"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant large intestine neoplasm"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant large intestine tumor"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant large intestine tumour"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant neoplasm of colorectum"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant neoplasm of large bowel"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant neoplasm of large intestine"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant neoplasm of the large bowel"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant neoplasm of the large intestine"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant tumor of large bowel"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant tumor of large intestine"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant tumor of the large bowel"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant tumor of the large intestine"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant tumour of large bowel"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant tumour of large intestine"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant tumour of the large bowel"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "malignant tumour of the large intestine"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "CRC"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "colon cancer"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "colon cancer, susceptibility to, autosomal dominant, somatic mutation"
+          },
+          {
+            "id": "MONDO:0005575",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0005575",
+            "name": "large intestine cancer"
+          },
+          {
+            "id": "MIM:114500",
+            "resource": "MIM",
+            "url": "https://www.omim.org/entry/114500",
+            "name": "Colorectal cancer",
+            "description": "Colorectal cancer"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        },
+        {
+          "id": "32479790",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32479790"
+        },
+        {
+          "id": "32369209",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32369209"
+        }
+      ]
+    },
+    {
+      "best_biomarker_type": "prognostic",
+      "status": "increased IL6 level",
+      "notes": "Measured in serum (UN:0001977) as well",
+      "literature_evidence": "IL-6 plays multifaceted roles in regulation of vascular leakage, complement activation, and coagulation pathways, which ultimately causes poor outcomes for acute respiratory distress syndrome, multiple organ dysfunction syndrome, and SARS. [PMID:32479790] Low lymphocytes, increased IL-6, CRP, PCT, D dimer, and LDH, these finds were similar to previous studies. The increase of these inflammatory indexes indicates that the infected patients were in inflammatory state, which may be closely related to the inflammatory storm. The increase of the cancer biomarkers in patients with COVID-19, especially in severe and critical patients, suggests that inflammation is closely related to the development of COVID-19. [PMID:32369209]",
+      "loinc_code": "26881-3",
+      "tissue": {
+        "name": "blood",
+        "namespace": "UBERON",
+        "id": "0000178",
+        "url": "http://purl.obolibrary.org/obo/UBERON_0000178"
+      },
+      "disease": {
+        "disease_id": "DOID:1781",
+        "recommended_name": {
+          "id": "DOID:1781",
+          "resource": "Disease Ontology",
+          "url": "http://disease-ontology.org/term/DOID:1781",
+          "name": "thyroid cancer",
+          "description": "An endocrine gland cancer located in the thryoid gland located in the neck below the thyroid cartilage."
+        },
+        "synonyms": [
+          {
+            "id": "DOID:1781",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1781",
+            "name": "thyroid gland cancer"
+          },
+          {
+            "id": "DOID:1781",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1781",
+            "name": "Thyroid gland neoplasm"
+          },
+          {
+            "id": "DOID:1781",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1781",
+            "name": "malignant neoplasm of thyroid gland"
+          },
+          {
+            "id": "DOID:1781",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1781",
+            "name": "malignant tumour of thyroid gland"
+          },
+          {
+            "id": "DOID:1781",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1781",
+            "name": "neoplasm of thyroid gland"
+          },
+          {
+            "id": "DOID:1781",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:1781",
+            "name": "thyroid neoplasm"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        },
+        {
+          "id": "32479790",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32479790"
+        },
+        {
+          "id": "32369209",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32369209"
+        }
+      ]
+    },
+    {
+      "best_biomarker_type": "prognostic",
+      "status": "increased IL6 level",
+      "notes": "Measured in serum (UN:0001977) as well",
+      "literature_evidence": "IL-6 plays multifaceted roles in regulation of vascular leakage, complement activation, and coagulation pathways, which ultimately causes poor outcomes for acute respiratory distress syndrome, multiple organ dysfunction syndrome, and SARS. [PMID:32479790] Low lymphocytes, increased IL-6, CRP, PCT, D dimer, and LDH, these finds were similar to previous studies. The increase of these inflammatory indexes indicates that the infected patients were in inflammatory state, which may be closely related to the inflammatory storm. The increase of the cancer biomarkers in patients with COVID-19, especially in severe and critical patients, suggests that inflammation is closely related to the development of COVID-19. [PMID:32369209]",
+      "loinc_code": "26881-3",
+      "tissue": {
+        "name": "blood",
+        "namespace": "UBERON",
+        "id": "0000178",
+        "url": "http://purl.obolibrary.org/obo/UBERON_0000178"
+      },
+      "disease": {
+        "disease_id": "DOID:4362",
+        "recommended_name": {
+          "id": "DOID:4362",
+          "resource": "Disease Ontology",
+          "url": "http://disease-ontology.org/term/DOID:4362",
+          "name": "cervical cancer",
+          "description": "A female reproductive organ cancer that is located_in the cervix."
+        },
+        "synonyms": [
+          {
+            "id": "DOID:4362",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:4362",
+            "name": "cervical neoplasm"
+          },
+          {
+            "id": "DOID:4362",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:4362",
+            "name": "cervix cancer"
+          },
+          {
+            "id": "DOID:4362",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:4362",
+            "name": "cervix uteri cancer"
+          },
+          {
+            "id": "DOID:4362",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:4362",
+            "name": "neoplasm of uterine cervix"
+          },
+          {
+            "id": "DOID:4362",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:4362",
+            "name": "tumor of the Cervix Uteri"
+          },
+          {
+            "id": "DOID:4362",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:4362",
+            "name": "uterine cervical neoplasm"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "cervical cancer",
+            "description": "A primary or metastatic malignant neoplasm involving the cervix."
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "cervical neoplasm"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "tumor of the cervix uteri"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "tumour of the cervix uteri"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "uterine cervical neoplasm"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "cancer of uterine cervix"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "cervical cancer, somatic"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "cervix cancer"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "cervix uteri cancer"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant cervical neoplasm"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant cervical tumor"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant cervical tumour"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant cervix neoplasm"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant cervix tumor"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant cervix tumour"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant cervix uteri neoplasm"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant cervix uteri tumor"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant cervix uteri tumour"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant neoplasm of cervix"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant neoplasm of cervix uteri"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant neoplasm of the cervix"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant neoplasm of the cervix uteri"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant neoplasm of the uterine cervix"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant neoplasm of uterine cervix"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant tumor of cervix"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant tumor of cervix uteri"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant tumor of the cervix"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant tumor of the cervix uteri"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant tumor of the uterine cervix"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant tumor of uterine cervix"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant tumour of cervix"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant tumour of cervix uteri"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant tumour of the cervix"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant tumour of the cervix uteri"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant tumour of the uterine cervix"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant tumour of uterine cervix"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant uterine cervix neoplasm"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant uterine cervix tumor"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "malignant uterine cervix tumour"
+          },
+          {
+            "id": "MONDO:0002974",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0002974",
+            "name": "uterine cervix cancer"
+          },
+          {
+            "id": "MIM:603956",
+            "resource": "MIM",
+            "url": "https://www.omim.org/entry/603956",
+            "name": "Cervical cancer",
+            "description": "Cervical cancer"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        },
+        {
+          "id": "32479790",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32479790"
+        },
+        {
+          "id": "32369209",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32369209"
+        }
+      ]
+    },
+    {
+      "best_biomarker_type": "prognostic",
+      "status": "increased IL6 level",
+      "notes": "Measured in serum (UN:0001977) as well",
+      "literature_evidence": "IL-6 plays multifaceted roles in regulation of vascular leakage, complement activation, and coagulation pathways, which ultimately causes poor outcomes for acute respiratory distress syndrome, multiple organ dysfunction syndrome, and SARS. [PMID:32479790] Low lymphocytes, increased IL-6, CRP, PCT, D dimer, and LDH, these finds were similar to previous studies. The increase of these inflammatory indexes indicates that the infected patients were in inflammatory state, which may be closely related to the inflammatory storm. The increase of the cancer biomarkers in patients with COVID-19, especially in severe and critical patients, suggests that inflammation is closely related to the development of COVID-19. [PMID:32369209]",
+      "loinc_code": "26881-3",
+      "tissue": {
+        "name": "blood",
+        "namespace": "UBERON",
+        "id": "0000178",
+        "url": "http://purl.obolibrary.org/obo/UBERON_0000178"
+      },
+      "disease": {
+        "disease_id": "DOID:263",
+        "recommended_name": {
+          "id": "DOID:263",
+          "resource": "Disease Ontology",
+          "url": "http://disease-ontology.org/term/DOID:263",
+          "name": "kidney cancer",
+          "description": "A urinary system cancer that is located_in the kidney."
+        },
+        "synonyms": [
+          {
+            "id": "DOID:263",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:263",
+            "name": "malignant neoplasm of kidney except pelvis"
+          },
+          {
+            "id": "DOID:263",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:263",
+            "name": "malignant tumour of kidney"
+          },
+          {
+            "id": "DOID:263",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:263",
+            "name": "renal cancer"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        },
+        {
+          "id": "32479790",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32479790"
+        },
+        {
+          "id": "32369209",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32369209"
+        }
+      ]
+    },
+    {
+      "best_biomarker_type": "prognostic",
+      "status": "increased IL6 level",
+      "notes": "Measured in serum (UN:0001977) as well",
+      "literature_evidence": "IL-6 plays multifaceted roles in regulation of vascular leakage, complement activation, and coagulation pathways, which ultimately causes poor outcomes for acute respiratory distress syndrome, multiple organ dysfunction syndrome, and SARS. [PMID:32479790] Low lymphocytes, increased IL-6, CRP, PCT, D dimer, and LDH, these finds were similar to previous studies. The increase of these inflammatory indexes indicates that the infected patients were in inflammatory state, which may be closely related to the inflammatory storm. The increase of the cancer biomarkers in patients with COVID-19, especially in severe and critical patients, suggests that inflammation is closely related to the development of COVID-19. [PMID:32369209]",
+      "loinc_code": "26881-3",
+      "tissue": {
+        "name": "blood",
+        "namespace": "UBERON",
+        "id": "0000178",
+        "url": "http://purl.obolibrary.org/obo/UBERON_0000178"
+      },
+      "disease": {
+        "disease_id": "DOID:3571",
+        "recommended_name": {
+          "id": "DOID:3571",
+          "resource": "Disease Ontology",
+          "url": "http://disease-ontology.org/term/DOID:3571",
+          "name": "liver cancer",
+          "description": "A hepatobiliary system cancer that is located_in the liver."
+        },
+        "synonyms": [
+          {
+            "id": "DOID:3571",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:3571",
+            "name": "Ca liver - primary"
+          },
+          {
+            "id": "DOID:3571",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:3571",
+            "name": "Resectable malignant neoplasm of Liver"
+          },
+          {
+            "id": "DOID:3571",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:3571",
+            "name": "hepatic cancer"
+          },
+          {
+            "id": "DOID:3571",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:3571",
+            "name": "hepatic neoplasm"
+          },
+          {
+            "id": "DOID:3571",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:3571",
+            "name": "malignant hepato-biliary neoplasm"
+          },
+          {
+            "id": "DOID:3571",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:3571",
+            "name": "malignant neoplasm of liver"
+          },
+          {
+            "id": "DOID:3571",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:3571",
+            "name": "malignant neoplasm of liver, primary"
+          },
+          {
+            "id": "DOID:3571",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:3571",
+            "name": "malignant tumor of liver"
+          },
+          {
+            "id": "DOID:3571",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:3571",
+            "name": "neoplasm of liver"
+          },
+          {
+            "id": "DOID:3571",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:3571",
+            "name": "non-resectable primary hepatic malignant neoplasm"
+          },
+          {
+            "id": "DOID:3571",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:3571",
+            "name": "primary liver cancer"
+          },
+          {
+            "id": "DOID:3571",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:3571",
+            "name": "primary malignant neoplasm of liver"
+          },
+          {
+            "id": "DOID:3571",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:3571",
+            "name": "resectable malignant neoplasm of the liver"
+          },
+          {
+            "id": "DOID:3571",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:3571",
+            "name": "malignant neoplasm of liver, not specified as primary or secondary"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        },
+        {
+          "id": "32479790",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32479790"
+        },
+        {
+          "id": "32369209",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32369209"
+        }
+      ]
+    },
+    {
+      "best_biomarker_type": "prognostic",
+      "status": "increased IL6 level",
+      "notes": "Measured in serum (UN:0001977) as well|lymphoma (DOID:8584)",
+      "literature_evidence": "IL-6 plays multifaceted roles in regulation of vascular leakage, complement activation, and coagulation pathways, which ultimately causes poor outcomes for acute respiratory distress syndrome, multiple organ dysfunction syndrome, and SARS. [PMID:32479790] Low lymphocytes, increased IL-6, CRP, PCT, D dimer, and LDH, these finds were similar to previous studies. The increase of these inflammatory indexes indicates that the infected patients were in inflammatory state, which may be closely related to the inflammatory storm. The increase of the cancer biomarkers in patients with COVID-19, especially in severe and critical patients, suggests that inflammation is closely related to the development of COVID-19. [PMID:32369209]",
+      "loinc_code": "26881-3",
+      "tissue": {
+        "name": "blood",
+        "namespace": "UBERON",
+        "id": "0000178",
+        "url": "http://purl.obolibrary.org/obo/UBERON_0000178"
+      },
+      "disease": {
+        "disease_id": "DOID:2531",
+        "recommended_name": {
+          "id": "DOID:2531",
+          "resource": "Disease Ontology",
+          "url": "http://disease-ontology.org/term/DOID:2531",
+          "name": "hematologic cancer",
+          "description": "An organ system cancer located in the hematological system that is characterized by uncontrolled cellular proliferation in blood, bone marrow and lymph nodes."
+        },
+        "synonyms": [
+          {
+            "id": "DOID:2531",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:2531",
+            "name": "Hematologic malignancy"
+          },
+          {
+            "id": "DOID:2531",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:2531",
+            "name": "Hematologic neoplasm"
+          },
+          {
+            "id": "DOID:2531",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:2531",
+            "name": "Hematological tumors"
+          },
+          {
+            "id": "DOID:2531",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:2531",
+            "name": "blood cancer"
+          },
+          {
+            "id": "DOID:2531",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:2531",
+            "name": "hematopoietic and lymphoid system tumor"
+          },
+          {
+            "id": "DOID:2531",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:2531",
+            "name": "hematopoietic cancer"
+          },
+          {
+            "id": "DOID:2531",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:2531",
+            "name": "hematopoietic neoplasm"
+          },
+          {
+            "id": "DOID:2531",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:2531",
+            "name": "hematopoietic tumors"
+          },
+          {
+            "id": "DOID:2531",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:2531",
+            "name": "malignant hematopoietic neoplasm"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        },
+        {
+          "id": "32479790",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32479790"
+        },
+        {
+          "id": "32369209",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32369209"
+        }
+      ]
+    },
+    {
+      "best_biomarker_type": "prognostic",
+      "status": "increased IL6 level",
+      "notes": "Measured in serum (UN:0001977) as well",
+      "literature_evidence": "IL-6 plays multifaceted roles in regulation of vascular leakage, complement activation, and coagulation pathways, which ultimately causes poor outcomes for acute respiratory distress syndrome, multiple organ dysfunction syndrome, and SARS. [PMID:32479790] Low lymphocytes, increased IL-6, CRP, PCT, D dimer, and LDH, these finds were similar to previous studies. The increase of these inflammatory indexes indicates that the infected patients were in inflammatory state, which may be closely related to the inflammatory storm. The increase of the cancer biomarkers in patients with COVID-19, especially in severe and critical patients, suggests that inflammation is closely related to the development of COVID-19. [PMID:32369209]",
+      "loinc_code": "26881-3",
+      "tissue": {
+        "name": "blood",
+        "namespace": "UBERON",
+        "id": "0000178",
+        "url": "http://purl.obolibrary.org/obo/UBERON_0000178"
+      },
+      "disease": {
+        "disease_id": "DOID:5041",
+        "recommended_name": {
+          "id": "DOID:5041",
+          "resource": "Disease Ontology",
+          "url": "http://disease-ontology.org/term/DOID:5041",
+          "name": "esophageal cancer",
+          "description": "A gastrointestinal system cancer that is located_in the esophagus."
+        },
+        "synonyms": [
+          {
+            "id": "DOID:5041",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:5041",
+            "name": "Ca lower third oesophagus"
+          },
+          {
+            "id": "DOID:5041",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:5041",
+            "name": "Ca middle third oesophagus"
+          },
+          {
+            "id": "DOID:5041",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:5041",
+            "name": "esophagus cancer"
+          },
+          {
+            "id": "DOID:5041",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:5041",
+            "name": "malignant neoplasm of distal third of esophagus"
+          },
+          {
+            "id": "DOID:5041",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:5041",
+            "name": "malignant neoplasm of lower third of oesophagus"
+          },
+          {
+            "id": "DOID:5041",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:5041",
+            "name": "malignant neoplasm of middle third of oesophagus"
+          },
+          {
+            "id": "DOID:5041",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:5041",
+            "name": "malignant neoplasm of proximal third of esophagus"
+          },
+          {
+            "id": "DOID:5041",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:5041",
+            "name": "malignant neoplasm of upper third esophagus"
+          },
+          {
+            "id": "DOID:5041",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:5041",
+            "name": "malignant tumor of Distal Third of esophagus"
+          },
+          {
+            "id": "DOID:5041",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:5041",
+            "name": "malignant tumor of Proximal Third of esophagus"
+          },
+          {
+            "id": "DOID:5041",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:5041",
+            "name": "malignant tumor of abdominal esophagus"
+          },
+          {
+            "id": "DOID:5041",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:5041",
+            "name": "malignant tumor of the middle Third of the esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "esophageal cancer",
+            "description": "A primary or metastatic malignant neoplasm involving the esophagus."
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "cancer of esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "cancer of oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "esophageal cancer"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "esophageal cancer, somatic"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "esophageal carcinoma, somatic"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "esophageal squamous cell carcinoma, somatic"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "esophagus cancer"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant esophageal neoplasm"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant esophageal tumor"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant esophageal tumour"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant esophagus neoplasm"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant esophagus tumor"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant neoplasm of esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant neoplasm of oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant neoplasm of the esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant neoplasm of the oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant oesophagus neoplasm"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant oesophagus tumour"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant tumor of esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant tumor of the esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant tumour of oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant tumour of the oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "oesophagus cancer"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "Ca lower third esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "Ca lower third oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "Ca middle third esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "Ca middle third oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant neoplasm of distal third of esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant neoplasm of distal third of oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant neoplasm of lower third of esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant neoplasm of lower third of oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant neoplasm of middle third of esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant neoplasm of middle third of oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant neoplasm of proximal third of esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant neoplasm of proximal third of oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant neoplasm of upper third esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant neoplasm of upper third oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant tumor of abdominal esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant tumor of distal third of esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant tumor of proximal third of esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant tumor of the middle third of the esophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant tumour of abdominal oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant tumour of distal third of oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant tumour of proximal third of oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "malignant tumour of the middle third of the oesophagus"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "Aerodigestive tract cancer, susceptibility to"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "Escc, susceptibility to"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "esophageal squamous cell carcinoma, susceptibility to"
+          },
+          {
+            "id": "MONDO:0007576",
+            "resource": "MONDO",
+            "url": "https://monarchinitiative.org/disease/MONDO:0007576",
+            "name": "gastric cardia adenocarcinoma, susceptibility to"
+          },
+          {
+            "id": "MIM:133239",
+            "resource": "MIM",
+            "url": "https://www.omim.org/entry/133239",
+            "name": "Esophageal cancer",
+            "description": "Esophageal cancer"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        },
+        {
+          "id": "32479790",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32479790"
+        },
+        {
+          "id": "32369209",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32369209"
+        }
+      ]
+    },
+    {
+      "best_biomarker_type": "safety",
+      "status": "increased IL6 level",
+      "notes": "Measured in serum (UN:0001977) as well.",
+      "literature_evidence": "The mean of glycemia during hospitalization was 10.65 ± 0.84 mmol/L in the no insulin infusion group and 7.69 ± 1.85 mmol/L in the insulin infusion group. At baseline, IL-6 and D-dimer levels were significantly higher in the hyperglycemic group than in the normoglycemic group (P < 0.001). Even though all patients were on standard treatment for COVID-19 infection, IL-6 and D-dimer levels persisted higher in patients with hyperglycemia during hospitalization. [PMID:32430456] Our study is suggestive of S100A8/A9 and IL-6 being related to a persistent diabetes status post-surgically and of different pathophysiological mechanisms being involved in the post-surgical changes in the three groups, despite similar decreases in BMI. [PMID:28848164] Significantly higher IL-15 and IL-6 concentrations, HOMAIR, and markedly lower eGDR in newly diagnosed AD patients and first-degree relatives with positive anti-islet antibodies might suggest the role of these pro-inflammatory cytokines and insulin resistance in the pathogenesis of autoimmune diabetes. IL-15 and IL-6 might be used as biomarkers of the risk of autoimmune diabetes development. [PMID:31772933]",
+      "loinc_code": "26881-3",
+      "tissue": {
+        "name": "blood",
+        "namespace": "UBERON",
+        "id": "0000178",
+        "url": "http://purl.obolibrary.org/obo/UBERON_0000178"
+      },
+      "disease": {
+        "disease_id": "DOID:9351",
+        "recommended_name": {
+          "id": "DOID:9351",
+          "resource": "Disease Ontology",
+          "url": "http://disease-ontology.org/term/DOID:9351",
+          "name": "diabetes mellitus",
+          "description": "A glucose metabolism disease that is characterized by chronic hyperglycaemia with disturbances of carbohydrate, fat and protein metabolism resulting from defects in insulin secretion, insulin action, or both."
+        },
+        "synonyms": [
+          {
+            "id": "DOID:9351",
+            "resource": "Disease Ontology",
+            "url": "http://disease-ontology.org/term/DOID:9351",
+            "name": "diabetes"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        },
+        {
+          "id": "32430456",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/32430456"
+        },
+        {
+          "id": "28848164",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/28848164"
+        },
+        {
+          "id": "31772933",
+          "database": "PubMed",
+          "url": "https://glygen.org/publication/PubMed/31772933"
+        }
+      ]
+    }
+  ],
+  "publication": [
+    {
+      "title": "Cytokine release syndrome in severe COVID-19: interleukin-6 receptor antagonist tocilizumab may be the key to reduce mortality.",
+      "journal": "International journal of antimicrobial agents",
+      "authors": "Zhang C, Wu Z, Li JW, Zhao H, Wang GQ",
+      "date": "2020",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32234467",
+          "url": "https://glygen.org/publication/PubMed/32234467"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "S100A8/A9 (Calprotectin), Interleukin-6, and C-Reactive Protein in Obesity and Diabetes before and after Roux-en-Y Gastric Bypass Surgery.",
+      "journal": "Obesity facts",
+      "authors": "Lylloff L, Bathum L, Madsbad S, Grundtvig JLG, Nordgaard-Lassen I, Fenger M",
+      "date": "2017",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "28848164",
+          "url": "https://glygen.org/publication/PubMed/28848164"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "Prognostic value of interleukin-6, C-reactive protein, and procalcitonin in patients with COVID-19.",
+      "journal": "Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology",
+      "authors": "Liu F, Li L, Xu M, Wu J, Luo D, Zhu Y, Li B, Song X, Zhou X",
+      "date": "2020",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32344321",
+          "url": "https://glygen.org/publication/PubMed/32344321"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "Diagnostic utility of clinical laboratory data determinations for patients with the severe COVID-19.",
+      "journal": "Journal of medical virology",
+      "authors": "Gao Y, Li T, Han M, Li X, Wu D, Xu Y, Zhu Y, Liu Y, Wang X, Wang L",
+      "date": "2020",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32181911",
+          "url": "https://glygen.org/publication/PubMed/32181911"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "Serum interleukin 6 as a prognostic factor in patients with prostate cancer.",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "authors": "Nakashima J, Tachibana M, Horiguchi Y, Oya M, Ohigashi T, Asakura H, Murai M",
+      "date": "2000",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "10914713",
+          "url": "https://glygen.org/publication/PubMed/10914713"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "Clinical characteristics and outcomes of cancer patients with COVID-19.",
+      "journal": "Journal of medical virology",
+      "authors": "Yang F, Shi S, Zhu J, Shi J, Dai K, Chen X",
+      "date": "2020",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32369209",
+          "url": "https://glygen.org/publication/PubMed/32369209"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "Clinical characteristics and risk factors associated with COVID-19 disease severity in patients with cancer in Wuhan, China: a multicentre, retrospective, cohort study.",
+      "journal": "The Lancet. Oncology",
+      "authors": "Tian J, Yuan X, Xiao J, Zhong Q, Yang C, Liu B, Cai Y, Lu Z, Wang J, Wang Y, Liu S, Cheng B, Wang J, Zhang M, Wang L, Niu S, Yao Z, Deng X, Zhou F, Wei W, Li Q, Chen X, Chen W, Yang Q, Wu S, Fan J, Shu B, Hu Z, Wang S, Yang XP, Liu W, Miao X, Wang Z",
+      "date": "2020",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32479790",
+          "url": "https://glygen.org/publication/PubMed/32479790"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "The association between biomarkers and clinical outcomes in novel coronavirus pneumonia in a US cohort.",
+      "journal": "Biomarkers in medicine",
+      "authors": "Ayanian Shant, Reyes Juan, Lynn Lei, Teufel Karolyn",
+      "date": "2020-08",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32677844",
+          "url": "https://glygen.org/publication/PubMed/32677844"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "Elevated levels of IL-6 and CRP predict the need for mechanical ventilation in COVID-19.",
+      "journal": "The Journal of allergy and clinical immunology",
+      "authors": "Herold T, Jurinovic V, Arnreich C, Lipworth BJ, Hellmuth JC, von Bergwelt-Baildon M, Klein M, Weinberger T",
+      "date": "2020",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32425269",
+          "url": "https://glygen.org/publication/PubMed/32425269"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "Hematologic, biochemical and immune biomarker abnormalities associated with severe illness and mortality in coronavirus disease 2019 (COVID-19): a meta-analysis.",
+      "journal": "Clinical chemistry and laboratory medicine",
+      "authors": "Henry BM, de Oliveira MHS, Benoit S, Plebani M, Lippi G",
+      "date": "2020",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32286245",
+          "url": "https://glygen.org/publication/PubMed/32286245"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "IL-6 may be a good biomarker for earlier detection of COVID-19 progression.",
+      "journal": "Intensive care medicine",
+      "authors": "Wang C, Fei D, Li X, Zhao M, Yu K",
+      "date": "2020",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32385523",
+          "url": "https://glygen.org/publication/PubMed/32385523"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "Dysregulation of Immune Response in Patients With Coronavirus 2019 (COVID-19) in Wuhan, China.",
+      "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "authors": "Qin C, Zhou L, Hu Z, Zhang S, Yang S, Tao Y, Xie C, Ma K, Shang K, Wang W, Tian DS",
+      "date": "2020",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32161940",
+          "url": "https://glygen.org/publication/PubMed/32161940"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "Interleukin-6 and Interleukin-15 as Possible Biomarkers of the Risk of Autoimmune Diabetes Development.",
+      "journal": "BioMed research international",
+      "authors": "Siewko K, Maciulewski R, Zielinska-Maciulewska A, Poplawska-Kita A, Szumowski P, Wawrusiewicz-Kurylonek N, Lipinska D, Milewski R, Gorska M, Kretowski A, Szelachowska M",
+      "date": "2019",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "31772933",
+          "url": "https://glygen.org/publication/PubMed/31772933"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "The role of biomarkers in diagnosis of COVID-19 - A systematic review.",
+      "journal": "Life sciences",
+      "authors": "Kermali M, Khalsa RK, Pillai K, Ismail Z, Harky A",
+      "date": "2020",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32475810",
+          "url": "https://glygen.org/publication/PubMed/32475810"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "Diabetes and metabolic syndrome as risk factors for COVID-19.",
+      "journal": "Diabetes & metabolic syndrome",
+      "authors": "Marhl M, Grubelnik V, Magdic M, Markovic R",
+      "date": "2020",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32438331",
+          "url": "https://glygen.org/publication/PubMed/32438331"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "The role of interleukin-6 in monitoring severe case of coronavirus disease 2019.",
+      "journal": "EMBO molecular medicine",
+      "authors": "Liu Tao, Zhang Jieying, Yang Yuhui, Ma Hong, Li Zhenyu, Zhang Jiaoyue, Cheng Ji, Zhang Xiaoyun, Zhao Yanxia, Xia Zihan, Zhang Liling, Wu Gang, Yi Jianhua",
+      "date": "2020-07-07",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32428990",
+          "url": "https://glygen.org/publication/PubMed/32428990"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study.",
+      "journal": "Lancet (London, England)",
+      "authors": "Cummings MJ, Baldwin MR, Abrams D, Jacobson SD, Meyer BJ, Balough EM, Aaron JG, Claassen J, Rabbani LE, Hastie J, Hochman BR, Salazar-Schicchi J, Yip NH, Brodie D, O'Donnell MR",
+      "date": "2020",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32442528",
+          "url": "https://glygen.org/publication/PubMed/32442528"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "Interleukin-6 as a potential biomarker of COVID-19 progression.",
+      "journal": "Medecine et maladies infectieuses",
+      "authors": "Ulhaq ZS, Soraya GV",
+      "date": "2020",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32259560",
+          "url": "https://glygen.org/publication/PubMed/32259560"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    },
+    {
+      "title": "Outcomes in Patients With Hyperglycemia Affected by COVID-19: Can We Do More on Glycemic Control?",
+      "journal": "Diabetes care",
+      "authors": "Sardu C, D'Onofrio N, Balestrieri ML, Barbieri M, Rizzo MR, Messina V, Maggi P, Coppola N, Paolisso G, Marfella R",
+      "date": "2020",
+      "reference": [
+        {
+          "type": "PubMed",
+          "id": "32430456",
+          "url": "https://glygen.org/publication/PubMed/32430456"
+        }
+      ],
+      "evidence": [
+        {
+          "id": "GLY_000625",
+          "database": "GlyGen",
+          "url": "https://data.glygen.org/GLY_000625"
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "GLY_000625",
+      "database": "GlyGen",
+      "url": "https://data.glygen.org/GLY_000625"
+    },
+    {
+      "id": "10914713",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/10914713"
+    },
+    {
+      "id": "32479790",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32479790"
+    },
+    {
+      "id": "32369209",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32369209"
+    },
+    {
+      "id": "32259560",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32259560"
+    },
+    {
+      "id": "32428990",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32428990"
+    },
+    {
+      "id": "32677844",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32677844"
+    },
+    {
+      "id": "32438331",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32438331"
+    },
+    {
+      "id": "32475810",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32475810"
+    },
+    {
+      "id": "32234467",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32234467"
+    },
+    {
+      "id": "32442528",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32442528"
+    },
+    {
+      "id": "32161940",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32161940"
+    },
+    {
+      "id": "32425269",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32425269"
+    },
+    {
+      "id": "32385523",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32385523"
+    },
+    {
+      "id": "32181911",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32181911"
+    },
+    {
+      "id": "32344321",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32344321"
+    },
+    {
+      "id": "32286245",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32286245"
+    },
+    {
+      "id": "32430456",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/32430456"
+    },
+    {
+      "id": "28848164",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/28848164"
+    },
+    {
+      "id": "31772933",
+      "database": "PubMed",
+      "url": "https://glygen.org/publication/PubMed/31772933"
+    }
+  ],
+  "biomarker_id": "A0001",
+  "aclist": [
+    "P05231-1"
+  ],
+  "section_stats": [
+    {
+      "table_id": "instances",
+      "table_stats": [
+        {
+          "field": "total",
+          "count": 13
+        }
+      ],
+      "sort_fields": [
+        "best_biomarker_type",
+        "status",
+        "notes",
+        "literature_evidence",
+        "loinc_code",
+        "tissue.name",
+        "tissue.namespace",
+        "tissue.id",
+        "tissue.url",
+        "disease.disease_id"
+      ]
+    },
+    {
+      "table_id": "components",
+      "table_stats": [
+        {
+          "field": "total",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "table_id": "publication",
+      "table_stats": [
+        {
+          "field": "total",
+          "count": 19
+        }
+      ],
+      "sort_fields": [
+        "title",
+        "journal",
+        "authors",
+        "date"
+      ]
+    }
+  ],
+  "crossref": [
+    
+  ]
+}
