@@ -32,6 +32,11 @@ def main():
             "accession"
         ]
 
+        citation_data = []
+        # Convert publication data to Biomarker-Partnership citation data.
+        for publication_object in glygen_biomarker["publication"]:
+            citation_data.append(helpers.build_citation_object(publication_object))
+
         # Loop through instances.
         for instance in glygen_biomarker["instances"]:
 
@@ -40,20 +45,31 @@ def main():
                 assessed_biomarker_entity,
                 assessed_biomarker_entity_id,
                 assessed_entity_type,
-                instance
+                instance,
             )
 
             # Build best biomarker role object.
-            # TODO
+            best_biomarker_role_object = helpers.build_best_biomarker_role_obejct(
+                instance["best_biomarker_type"]
+            )
 
             # Build condition object.
             condition_object = helpers.build_condition_object(instance["disease"])
 
             # Build the full biomarker record.
-            result_data.append(helpers.build_record(biomarker_id, biomarker_component, condition_object))
+            result_data.append(
+                helpers.build_record(
+                    biomarker_id,
+                    biomarker_component,
+                    best_biomarker_role_object,
+                    condition_object,
+                    citation_data,
+                )
+            )
 
-    with open('converted_data.json', 'w') as f:
+    with open("converted_data.json", "w") as f:
         json.dump(result_data, f)
+
 
 if __name__ == "__main__":
     main()
