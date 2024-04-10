@@ -90,6 +90,7 @@ def build_evidence_sources(evidences: list) -> list:
 
     return evidence_sources
 
+
 def build_condition_object(disease_instance: dict) -> dict:
     """Builds the condition object in accordance to the Biomarker-Partnership
     data model.
@@ -132,8 +133,31 @@ def build_condition_object(disease_instance: dict) -> dict:
 
     return condition_object
 
+
+def build_best_biomarker_role_obejct(role: str) -> list:
+    """Takes the best biomarker role (called "type" in GLyGen) and builds the
+    best_biomarker_role object in accordance to the Biomarker-Partnership
+    data model.
+
+    Parameters
+    ----------
+    role : str
+        The best biomarker role string.
+
+    Returns
+    -------
+    list
+        The formatted best_biomarker_role object.
+    """
+    return [{"role": role}]
+
+
 def build_record(
-    biomarker_id: str, biomarker_component: list, condition_object: dict
+    biomarker_id: str,
+    biomarker_component: list,
+    best_biomarker_role_object: list,
+    condition_object: dict,
+    citation_data: list,
 ) -> dict:
     """Takes in the individual formatted components and builds the full
     biomarker record in accordance to the Biomarker-Partnership data model.
@@ -144,8 +168,12 @@ def build_record(
         The biomarker ID.
     biomarker_component : list
         The biomarker component array.
+    best_biomarker_role_object : list
+        The best biomarker role list.
     condition_object : dict
         The condition object.
+    citation_data : list
+        The citation list.
 
     Returns
     -------
@@ -153,7 +181,39 @@ def build_record(
         The formatted biomarker record.
     """
     return {
-        "biomarker_id": biomarker_id,
+        "biomarker_canonical_id": biomarker_id,
         "biomarker_component": biomarker_component,
+        "best_biomarker_role": best_biomarker_role_object,
         "condition": condition_object,
+        "citation": citation_data,
+    }
+
+
+def build_citation_object(publication_object: dict) -> dict:
+    """Creates an instance of the citation list in the Biomarker-Partnership
+    data model.
+
+    Parameters
+    ----------
+    publication_object : dict
+        The publication object from the GLyGen record.
+
+    Returns
+    -------
+    dict
+        An entry in the reference list.
+    """
+    return {
+        "citation_title": publication_object["title"],
+        "journal": publication_object["journal"],
+        "authors": publication_object["authors"],
+        "date": publication_object["date"],
+        "reference": [
+            {"id": x["id"], "type": x["type"], "url": x["url"]}
+            for x in publication_object["reference"]
+        ],
+        "evidence_source": [
+            {"id": x["id"], "database": x["database"], "url": x["url"]}
+            for x in publication_object["evidence"]
+        ],
     }
