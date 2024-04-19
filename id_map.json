@@ -1,0 +1,2038 @@
+{
+    "A0001": {
+        "curr_id": 13,
+        "prostate cancer (DOID:10283)": "A0001-1",
+        "COVID-19 (DOID:0080600)": "A0001-2",
+        "lung cancer (DOID:1324)": "A0001-3",
+        "urinary bladder cancer (DOID:11054)": "A0001-4",
+        "breast cancer (DOID:1612)": "A0001-5",
+        "colorectal cancer (DOID:9256)": "A0001-6",
+        "thyroid gland cancer (DOID:1781)": "A0001-7",
+        "cervical cancer (DOID:4362)": "A0001-8",
+        "kidney cancer (DOID:263)": "A0001-9",
+        "liver cancer (DOID:3571)": "A0001-10",
+        "hematologic cancer (DOID:2531)": "A0001-11",
+        "esophageal cancer (DOID:5041)": "A0001-12",
+        "diabetes mellitus (DOID:9351)": "A0001-13"
+    },
+    "A0002": {
+        "curr_id": 3,
+        "lung cancer (DOID:1324)": "A0002-1",
+        "COVID-19 (DOID:0080600)": "A0002-2",
+        "diabetes mellitus (DOID:9351)": "A0002-3"
+    },
+    "A0003": {
+        "curr_id": 5,
+        "COVID-19 (DOID:0080600)": "A0003-1",
+        "head and neck cancer (DOID:11934)": "A0003-2",
+        "lung cancer (DOID:1324)": "A0003-3",
+        "esophageal cancer (DOID:5041)": "A0003-4",
+        "breast cancer (DOID:1612)": "A0003-5"
+    },
+    "A0004": {
+        "curr_id": 5,
+        "lung cancer (DOID:1324)": "A0004-1",
+        "colorectal cancer (DOID:9256)": "A0004-2",
+        "COVID-19 (DOID:0080600)": "A0004-3",
+        "breast cancer (DOID:1612)": "A0004-4",
+        "diabetes mellitus (DOID:9351)": "A0004-5"
+    },
+    "A0005": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0005-1"
+    },
+    "A0006": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0006-1",
+        "gastrointestinal system cancer (DOID:3119)": "A0006-2"
+    },
+    "A0007": {
+        "curr_id": 13,
+        "COVID-19 (DOID:0080600)": "A0007-1",
+        "urinary bladder cancer (DOID:11054)": "A0007-2",
+        "breast cancer (DOID:1612)": "A0007-3",
+        "colorectal cancer (DOID:9256)": "A0007-4",
+        "thyroid gland cancer (DOID:1781)": "A0007-5",
+        "lung cancer (DOID:1324)": "A0007-6",
+        "cervical cancer (DOID:4362)": "A0007-7",
+        "kidney cancer (DOID:263)": "A0007-8",
+        "prostate cancer (DOID:10283)": "A0007-9",
+        "liver cancer (DOID:3571)": "A0007-10",
+        "hematologic cancer (DOID:2531)": "A0007-11",
+        "esophageal cancer (DOID:5041)": "A0007-12",
+        "head and neck cancer (DOID:11934)": "A0007-13"
+    },
+    "A0008": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0008-1",
+        "head and neck cancer (DOID:11934)": "A0008-2"
+    },
+    "A0009": {
+        "curr_id": 8,
+        "COVID-19 (DOID:0080600)": "A0009-1",
+        "lung cancer (DOID:1324)": "A0009-2",
+        "breast cancer (DOID:1612)": "A0009-3",
+        "colorectal cancer (DOID:9256)": "A0009-4",
+        "cervical cancer (DOID:4362)": "A0009-5",
+        "liver cancer (DOID:3571)": "A0009-6",
+        "prostate cancer (DOID:10283)": "A0009-7",
+        "diabetes mellitus (DOID:9351)": "A0009-8"
+    },
+    "A0010": {
+        "curr_id": 3,
+        "COVID-19 (DOID:0080600)": "A0010-1",
+        "brain cancer (DOID:1319)": "A0010-2",
+        "diabetes mellitus (DOID:9351)": "A0010-3"
+    },
+    "A0014": {
+        "curr_id": 3,
+        "COVID-19 (DOID:0080600)": "A0014-1",
+        "lung cancer (DOID:1324)": "A0014-2",
+        "diabetes mellitus (DOID:9351)": "A0014-3"
+    },
+    "A0015": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0015-1",
+        "liver cancer (DOID:3571)": "A0015-2"
+    },
+    "A0016": {
+        "curr_id": 5,
+        "lung cancer (DOID:1324)": "A0016-1",
+        "pancreatic cancer (DOID:1793)": "A0016-2",
+        "uterine cancer (DOID:363)": "A0016-3",
+        "COVID-19 (DOID:0080600)": "A0016-4",
+        "breast cancer (DOID:1612)": "A0016-5"
+    },
+    "A0017": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0017-1"
+    },
+    "A0018": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0018-1",
+        "colorectal cancer (DOID:9256)": "A0018-2"
+    },
+    "A0019": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0019-1",
+        "breast cancer (DOID:1612)": "A0019-2"
+    },
+    "A0020": {
+        "curr_id": 3,
+        "COVID-19 (DOID:0080600)": "A0020-1",
+        "diabetes mellitus (DOID:9351)": "A0020-2",
+        "lung cancer (DOID:1324)": "A0020-3"
+    },
+    "A0021": {
+        "curr_id": 12,
+        "COVID-19 (DOID:0080600)": "A0021-1",
+        "lung cancer (DOID:1324)": "A0021-2",
+        "urinary bladder cancer (DOID:11054)": "A0021-3",
+        "breast cancer (DOID:1612)": "A0021-4",
+        "colorectal cancer (DOID:9256)": "A0021-5",
+        "thyroid gland cancer (DOID:1781)": "A0021-6",
+        "cervical cancer (DOID:4362)": "A0021-7",
+        "kidney cancer (DOID:263)": "A0021-8",
+        "prostate cancer (DOID:10283)": "A0021-9",
+        "liver cancer (DOID:3571)": "A0021-10",
+        "hematologic cancer (DOID:2531)": "A0021-11",
+        "esophageal cancer (DOID:5041)": "A0021-12"
+    },
+    "A0022": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0022-1",
+        "colorectal cancer (DOID:9256)": "A0022-2"
+    },
+    "A0025": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0025-1"
+    },
+    "A0026": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0026-1",
+        "ovarian cancer (DOID:2394)": "A0026-2"
+    },
+    "A0027": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0027-1"
+    },
+    "A0028": {
+        "curr_id": 3,
+        "head and neck cancer (DOID:11934)": "A0028-1",
+        "COVID-19 (DOID:0080600)": "A0028-2",
+        "lung cancer (DOID:1324)": "A0028-3"
+    },
+    "A0029": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0029-1",
+        "diabetes mellitus (DOID:9351)": "A0029-2"
+    },
+    "A0030": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0030-1",
+        "prostate cancer (DOID:10283)": "A0030-2"
+    },
+    "A0031": {
+        "curr_id": 3,
+        "lung cancer (DOID:1324)": "A0031-1",
+        "COVID-19 (DOID:0080600)": "A0031-2",
+        "pancreatic cancer (DOID:1793)": "A0031-3"
+    },
+    "A0032": {
+        "curr_id": 5,
+        "ovarian cancer (DOID:2394)": "A0032-1",
+        "breast cancer (DOID:1612)": "A0032-2",
+        "COVID-19 (DOID:0080600)": "A0032-3",
+        "lung cancer (DOID:1324)": "A0032-4",
+        "pancreatic cancer (DOID:1793)": "A0032-5"
+    },
+    "A0033": {
+        "curr_id": 3,
+        "lung cancer (DOID:1324)": "A0033-1",
+        "urinary bladder cancer (DOID:11054)": "A0033-2",
+        "COVID-19 (DOID:0080600)": "A0033-3"
+    },
+    "A0034": {
+        "curr_id": 5,
+        "breast cancer (DOID:1612)": "A0034-1",
+        "colorectal cancer (DOID:9256)": "A0034-2",
+        "ovarian cancer (DOID:2394)": "A0034-3",
+        "COVID-19 (DOID:0080600)": "A0034-4",
+        "lung cancer (DOID:1324)": "A0034-5"
+    },
+    "A0035": {
+        "curr_id": 5,
+        "uterine cancer (DOID:363)": "A0035-1",
+        "COVID-19 (DOID:0080600)": "A0035-2",
+        "lung cancer (DOID:1324)": "A0035-3",
+        "ovarian cancer (DOID:2394)": "A0035-4",
+        "pancreatic cancer (DOID:1793)": "A0035-5"
+    },
+    "A0036": {
+        "curr_id": 5,
+        "breast cancer (DOID:1612)": "A0036-1",
+        "COVID-19 (DOID:0080600)": "A0036-2",
+        "lung cancer (DOID:1324)": "A0036-3",
+        "ovarian cancer (DOID:2394)": "A0036-4",
+        "pancreatic cancer (DOID:1793)": "A0036-5"
+    },
+    "A0037": {
+        "curr_id": 5,
+        "COVID-19 (DOID:0080600)": "A0037-1",
+        "cervical cancer (DOID:4362)": "A0037-2",
+        "lung cancer (DOID:1324)": "A0037-3",
+        "ovarian cancer (DOID:2394)": "A0037-4",
+        "pancreatic cancer (DOID:1793)": "A0037-5"
+    },
+    "A0038": {
+        "curr_id": 4,
+        "COVID-19 (DOID:0080600)": "A0038-1",
+        "lung cancer (DOID:1324)": "A0038-2",
+        "ovarian cancer (DOID:2394)": "A0038-3",
+        "pancreatic cancer (DOID:1793)": "A0038-4"
+    },
+    "A0040": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0040-1"
+    },
+    "A0041": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0041-1",
+        "diabetes mellitus (DOID:9351)": "A0041-2"
+    },
+    "A0042": {
+        "curr_id": 3,
+        "COVID-19 (DOID:0080600)": "A0042-1",
+        "liver cancer (DOID:3571)": "A0042-2",
+        "diabetes mellitus (DOID:9351)": "A0042-3"
+    },
+    "A0043": {
+        "curr_id": 2,
+        "lung cancer (DOID:1324)": "A0043-1",
+        "COVID-19 (DOID:0080600)": "A0043-2"
+    },
+    "A0044": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0044-1"
+    },
+    "A0045": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0045-1",
+        "prostate cancer (DOID:10283)": "A0045-2"
+    },
+    "A0046": {
+        "curr_id": 3,
+        "pancreatic cancer (DOID:1793)": "A0046-1",
+        "COVID-19 (DOID:0080600)": "A0046-2",
+        "diabetes mellitus (DOID:9351)": "A0046-3"
+    },
+    "A0047": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0047-1"
+    },
+    "A0048": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0048-1",
+        "lung cancer (DOID:1324)": "A0048-2"
+    },
+    "A0049": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0049-1",
+        "ovarian cancer (DOID:2394)": "A0049-2"
+    },
+    "A0050": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0050-1",
+        "colorectal cancer (DOID:9256)": "A0050-2"
+    },
+    "A0051": {
+        "curr_id": 3,
+        "COVID-19 (DOID:0080600)": "A0051-1",
+        "colorectal cancer (DOID:9256)": "A0051-2",
+        "diabetes mellitus (DOID:9351)": "A0051-3"
+    },
+    "A0052": {
+        "curr_id": 12,
+        "COVID-19 (DOID:0080600)": "A0052-1",
+        "urinary bladder cancer (DOID:11054)": "A0052-2",
+        "breast cancer (DOID:1612)": "A0052-3",
+        "colorectal cancer (DOID:9256)": "A0052-4",
+        "thyroid cancer (DOID:1781)": "A0052-5",
+        "lung cancer (DOID:1324)": "A0052-6",
+        "cervical cancer (DOID:4362)": "A0052-7",
+        "kidney cancer (DOID:263)": "A0052-8",
+        "prostate cancer (DOID:10283)": "A0052-9",
+        "liver cancer (DOID:3571)": "A0052-10",
+        "lymphoma (DOID:8584)": "A0052-11",
+        "esophageal cancer (DOID:5041)": "A0052-12"
+    },
+    "A0053": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0053-1",
+        "stomach cancer (DOID:10534)": "A0053-2"
+    },
+    "A0054": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0054-1"
+    },
+    "A0055": {
+        "curr_id": 12,
+        "COVID-19 (DOID:0080600)": "A0055-1",
+        "urinary bladder cancer (DOID:11054)": "A0055-2",
+        "breast cancer (DOID:1612)": "A0055-3",
+        "colorectal cancer (DOID:9256)": "A0055-4",
+        "thyroid gland cancer (DOID:1781)": "A0055-5",
+        "lung cancer (DOID:1324)": "A0055-6",
+        "cervical cancer (DOID:4362)": "A0055-7",
+        "kidney cancer (DOID:263)": "A0055-8",
+        "prostate cancer (DOID:10283)": "A0055-9",
+        "liver cancer (DOID:3571)": "A0055-10",
+        "hematologic cancer (DOID:2531)": "A0055-11",
+        "esophageal cancer (DOID:5041)": "A0055-12"
+    },
+    "A0056": {
+        "curr_id": 4,
+        "prostate cancer (DOID:10283)": "A0056-1",
+        "COVID-19 (DOID:0080600)": "A0056-2",
+        "colorectal cancer (DOID:9256)": "A0056-3",
+        "diabetes mellitus (DOID:9351)": "A0056-4"
+    },
+    "A0057": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0057-1",
+        "colorectal cancer (DOID:9256)": "A0057-2"
+    },
+    "A0058": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0058-1",
+        "diabetes mellitus (DOID:9351)": "A0058-2"
+    },
+    "A0060": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0060-1",
+        "lung cancer (DOID:1324)": "A0060-2"
+    },
+    "A0061": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0061-1",
+        "diabetes mellitus (DOID:9351)": "A0061-2"
+    },
+    "A0062": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0062-1",
+        "colorectal cancer (DOID:9256)": "A0062-2"
+    },
+    "A0063": {
+        "curr_id": 2,
+        "skin cancer (DOID:4159)": "A0063-1",
+        "COVID-19 (DOID:0080600)": "A0063-2"
+    },
+    "A0064": {
+        "curr_id": 3,
+        "COVID-19 (DOID:0080600)": "A0064-1",
+        "breast cancer (DOID:1612)": "A0064-2",
+        "diabetes mellitus (DOID:9351)": "A0064-3"
+    },
+    "A0065": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0065-1"
+    },
+    "A0066": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0066-1",
+        "diabetes mellitus (DOID:9351)": "A0066-2"
+    },
+    "A0067": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0067-1"
+    },
+    "A0069": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0069-1",
+        "brain cancer (DOID:1319)": "A0069-2"
+    },
+    "A0070": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0070-1"
+    },
+    "A0071": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0071-1"
+    },
+    "A0072": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0072-1"
+    },
+    "A0073": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0073-1",
+        "diabetes mellitus (DOID:9351)": "A0073-2"
+    },
+    "A0074": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0074-1",
+        "gastrointestinal system cancer (DOID:3119)": "A0074-2"
+    },
+    "A0075": {
+        "curr_id": 8,
+        "COVID-19 (DOID:0080600)": "A0075-1",
+        "lung cancer (DOID:1324)": "A0075-2",
+        "breast cancer (DOID:1612)": "A0075-3",
+        "colorectal cancer (DOID:9256)": "A0075-4",
+        "cervical cancer (DOID:4362)": "A0075-5",
+        "liver cancer (DOID:3571)": "A0075-6",
+        "prostate cancer (DOID:10283)": "A0075-7",
+        "diabetes mellitus (DOID:9351)": "A0075-8"
+    },
+    "A0076": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0076-1"
+    },
+    "A0077": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0077-1",
+        "breast cancer (DOID:1612)": "A0077-2"
+    },
+    "A0078": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0078-1",
+        "diabetes mellitus (DOID:9351)": "A0078-2"
+    },
+    "A0079": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0079-1",
+        "esophageal cancer (DOID:5041)": "A0079-2"
+    },
+    "A0080": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0080-1"
+    },
+    "A0081": {
+        "curr_id": 4,
+        "esophageal cancer (DOID:5041)": "A0081-1",
+        "COVID-19 (DOID:0080600)": "A0081-2",
+        "lung cancer (DOID:1324)": "A0081-3",
+        "diabetes mellitus (DOID:9351)": "A0081-4"
+    },
+    "A0082": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0082-1",
+        "colorectal cancer (DOID:9256)": "A0082-2"
+    },
+    "A0084": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0084-1"
+    },
+    "A0085": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0085-1"
+    },
+    "A0086": {
+        "curr_id": 2,
+        "breast cancer (DOID:1612)": "A0086-1",
+        "COVID-19 (DOID:0080600)": "A0086-2"
+    },
+    "A0087": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0087-1",
+        "breast cancer (DOID:1612)": "A0087-2"
+    },
+    "A0088": {
+        "curr_id": 2,
+        "ovarian cancer (DOID:2394)": "A0088-1",
+        "COVID-19 (DOID:0080600)": "A0088-2"
+    },
+    "A0089": {
+        "curr_id": 2,
+        "colorectal cancer (DOID:9256)": "A0089-1",
+        "COVID-19 (DOID:0080600)": "A0089-2"
+    },
+    "A0090": {
+        "curr_id": 2,
+        "colorectal cancer (DOID:9256)": "A0090-1",
+        "COVID-19 (DOID:0080600)": "A0090-2"
+    },
+    "A0091": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0091-1"
+    },
+    "A0092": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0092-1"
+    },
+    "A0093": {
+        "curr_id": 1,
+        "colorectal cancer (DOID:9256)": "A0093-1"
+    },
+    "A0095": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0095-1"
+    },
+    "A0096": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0096-1"
+    },
+    "A0097": {
+        "curr_id": 2,
+        "lung cancer (DOID:1324)": "A0097-1",
+        "COVID-19 (DOID:0080600)": "A0097-2"
+    },
+    "A0098": {
+        "curr_id": 2,
+        "lung cancer (DOID:1324)": "A0098-1",
+        "COVID-19 (DOID:0080600)": "A0098-2"
+    },
+    "A0099": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0099-1"
+    },
+    "A0100": {
+        "curr_id": 3,
+        "esophageal cancer (DOID:5041)": "A0100-1",
+        "colorectal cancer (DOID:9256)": "A0100-2",
+        "COVID-19 (DOID:0080600)": "A0100-3"
+    },
+    "A0101": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0101-1",
+        "breast cancer (DOID:1612)": "A0101-2"
+    },
+    "A0102": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0102-1"
+    },
+    "A0103": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0103-1"
+    },
+    "A0105": {
+        "curr_id": 3,
+        "COVID-19 (DOID:0080600)": "A0105-1",
+        "breast cancer (DOID:1612)": "A0105-2",
+        "diabetes mellitus (DOID:9351)": "A0105-3"
+    },
+    "A0106": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0106-1"
+    },
+    "A0109": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0109-1",
+        "lung cancer (DOID:1324)": "A0109-2"
+    },
+    "A0110": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0110-1"
+    },
+    "A0111": {
+        "curr_id": 3,
+        "COVID-19 (DOID:0080600)": "A0111-1",
+        "colorectal cancer (DOID:9256)": "A0111-2",
+        "diabetes mellitus (DOID:9351)": "A0111-3"
+    },
+    "A0112": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0112-1"
+    },
+    "A0113": {
+        "curr_id": 3,
+        "COVID-19 (DOID:0080600)": "A0113-1",
+        "colorectal cancer (DOID:9256)": "A0113-2",
+        "diabetes mellitus (DOID:9351)": "A0113-3"
+    },
+    "A0114": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0114-1"
+    },
+    "A0115": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0115-1"
+    },
+    "A0116": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0116-1",
+        "colorectal cancer (DOID:9256)": "A0116-2"
+    },
+    "A0117": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0117-1",
+        "liver cancer (DOID:3571)": "A0117-2"
+    },
+    "A0118": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0118-1"
+    },
+    "A0119": {
+        "curr_id": 3,
+        "lung cancer (DOID:1324)": "A0119-1",
+        "pancreatic cancer (DOID:1793)": "A0119-2",
+        "COVID-19 (DOID:0080600)": "A0119-3"
+    },
+    "A0120": {
+        "curr_id": 3,
+        "liver cancer (DOID:3571)": "A0120-1",
+        "ovarian cancer (DOID:2394)": "A0120-2",
+        "COVID-19 (DOID:0080600)": "A0120-3"
+    },
+    "A0121": {
+        "curr_id": 2,
+        "head and neck cancer (DOID:11934)": "A0121-1",
+        "COVID-19 (DOID:0080600)": "A0121-2"
+    },
+    "A0122": {
+        "curr_id": 2,
+        "skin cancer (DOID:4159)": "A0122-1",
+        "COVID-19 (DOID:0080600)": "A0122-2"
+    },
+    "A0123": {
+        "curr_id": 2,
+        "colorectal cancer (DOID:9256)": "A0123-1",
+        "COVID-19 (DOID:0080600)": "A0123-2"
+    },
+    "A0124": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0124-1"
+    },
+    "A0125": {
+        "curr_id": 2,
+        "lung cancer (DOID:1324)": "A0125-1",
+        "COVID-19 (DOID:0080600)": "A0125-2"
+    },
+    "A0126": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0126-1"
+    },
+    "A0127": {
+        "curr_id": 3,
+        "COVID-19 (DOID:0080600)": "A0127-1",
+        "urinary bladder cancer (DOID:11054)": "A0127-2",
+        "diabetes mellitus (DOID:9351)": "A0127-3"
+    },
+    "A0128": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0128-1",
+        "colorectal cancer (DOID:9256)": "A0128-2"
+    },
+    "A0129": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0129-1"
+    },
+    "A0130": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0130-1"
+    },
+    "A0131": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0131-1"
+    },
+    "A0132": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0132-1"
+    },
+    "A0133": {
+        "curr_id": 3,
+        "COVID-19 (DOID:0080600)": "A0133-1",
+        "colorectal cancer (DOID:9256)": "A0133-2",
+        "diabetes mellitus (DOID:9351)": "A0133-3"
+    },
+    "A0134": {
+        "curr_id": 3,
+        "COVID-19 (DOID:0080600)": "A0134-1",
+        "kidney cancer (DOID:263)": "A0134-2",
+        "diabetes mellitus (DOID:9351)": "A0134-3"
+    },
+    "A0135": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0135-1",
+        "brain cancer (DOID:1319)": "A0135-2"
+    },
+    "A0136": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0136-1"
+    },
+    "A0137": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0137-1",
+        "urinary bladder cancer (DOID:11054)": "A0137-2"
+    },
+    "A0139": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0139-1",
+        "colorectal cancer (DOID:9256)": "A0139-2"
+    },
+    "A0140": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0140-1",
+        "head and neck cancer (DOID:11934)": "A0140-2"
+    },
+    "A0141": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0141-1",
+        "liver cancer (DOID:3571)": "A0141-2"
+    },
+    "A0142": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0142-1",
+        "pancreatic cancer (DOID:1793)": "A0142-2"
+    },
+    "A0143": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0143-1",
+        "colorectal cancer (DOID:9256)": "A0143-2"
+    },
+    "A0144": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0144-1",
+        "lung cancer (DOID:1324)": "A0144-2"
+    },
+    "A0145": {
+        "curr_id": 2,
+        "COVID-19 (DOID:0080600)": "A0145-1",
+        "breast cancer (DOID:1612)": "A0145-2"
+    },
+    "A0146": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0146-1"
+    },
+    "A0147": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0147-1"
+    },
+    "A0148": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0148-1"
+    },
+    "A0149": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0149-1"
+    },
+    "A0150": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0150-1"
+    },
+    "A0151": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0151-1"
+    },
+    "A0152": {
+        "curr_id": 1,
+        "lung cancer (DOID:1324)": "A0152-1"
+    },
+    "A0153": {
+        "curr_id": 1,
+        "lung cancer (DOID:1324)": "A0153-1"
+    },
+    "A0154": {
+        "curr_id": 1,
+        "skin cancer (DOID:4159)": "A0154-1"
+    },
+    "A0155": {
+        "curr_id": 1,
+        "skin cancer (DOID:4159)": "A0155-1"
+    },
+    "A0156": {
+        "curr_id": 1,
+        "head and neck cancer (DOID:11934)": "A0156-1"
+    },
+    "A0157": {
+        "curr_id": 2,
+        "breast cancer (DOID:1612)": "A0157-1",
+        "head and neck cancer (DOID:11934)": "A0157-2"
+    },
+    "A0158": {
+        "curr_id": 3,
+        "breast cancer (DOID:1612)": "A0158-1",
+        "liver cancer (DOID:3571)": "A0158-2",
+        "head and neck cancer (DOID:11934)": "A0158-3"
+    },
+    "A0159": {
+        "curr_id": 2,
+        "ovarian cancer (DOID:2394)": "A0159-1",
+        "head and neck cancer (DOID:11934)": "A0159-2"
+    },
+    "A0160": {
+        "curr_id": 1,
+        "head and neck cancer (DOID:11934)": "A0160-1"
+    },
+    "A0161": {
+        "curr_id": 2,
+        "esophageal cancer (DOID:5041)": "A0161-1",
+        "head and neck cancer (DOID:11934)": "A0161-2"
+    },
+    "A0162": {
+        "curr_id": 1,
+        "liver cancer (DOID:3571)": "A0162-1"
+    },
+    "A0163": {
+        "curr_id": 1,
+        "liver cancer (DOID:3571)": "A0163-1"
+    },
+    "A0164": {
+        "curr_id": 1,
+        "liver cancer (DOID:3571)": "A0164-1"
+    },
+    "A0165": {
+        "curr_id": 1,
+        "liver cancer (DOID:3571)": "A0165-1"
+    },
+    "A0166": {
+        "curr_id": 1,
+        "liver cancer (DOID:3571)": "A0166-1"
+    },
+    "A0167": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0167-1"
+    },
+    "A0168": {
+        "curr_id": 1,
+        "colorectal cancer (DOID:9256)": "A0168-1"
+    },
+    "A0169": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0169-1"
+    },
+    "A0170": {
+        "curr_id": 1,
+        "lung cancer (DOID:1324)": "A0170-1"
+    },
+    "A0171": {
+        "curr_id": 1,
+        "urinary bladder cancer (DOID:11054)": "A0171-1"
+    },
+    "A0173": {
+        "curr_id": 1,
+        "urinary bladder cancer (DOID:11054)": "A0173-1"
+    },
+    "A0174": {
+        "curr_id": 1,
+        "esophageal cancer (DOID:5041)": "A0174-1"
+    },
+    "A0175": {
+        "curr_id": 2,
+        "esophageal cancer (DOID:5041)": "A0175-1",
+        "thyroid gland cancer (DOID:1781)": "A0175-2"
+    },
+    "A0176": {
+        "curr_id": 1,
+        "skin cancer (DOID:4159)": "A0176-1"
+    },
+    "A0177": {
+        "curr_id": 1,
+        "pancreatic cancer (DOID:1793)": "A0177-1"
+    },
+    "A0178": {
+        "curr_id": 1,
+        "skin cancer (DOID:4159)": "A0178-1"
+    },
+    "A0179": {
+        "curr_id": 1,
+        "skin cancer (DOID:4159)": "A0179-1"
+    },
+    "A0181": {
+        "curr_id": 1,
+        "head and neck cancer (DOID:11934)": "A0181-1"
+    },
+    "A0182": {
+        "curr_id": 1,
+        "skin cancer (DOID:4159)": "A0182-1"
+    },
+    "A0183": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0183-1"
+    },
+    "A0184": {
+        "curr_id": 1,
+        "pancreatic cancer (DOID:1793)": "A0184-1"
+    },
+    "A0185": {
+        "curr_id": 1,
+        "urinary bladder cancer (DOID:11054)": "A0185-1"
+    },
+    "A0186": {
+        "curr_id": 1,
+        "urinary bladder cancer (DOID:11054)": "A0186-1"
+    },
+    "A0187": {
+        "curr_id": 1,
+        "urinary bladder cancer (DOID:11054)": "A0187-1"
+    },
+    "A0190": {
+        "curr_id": 1,
+        "urinary bladder cancer (DOID:11054)": "A0190-1"
+    },
+    "A0191": {
+        "curr_id": 1,
+        "urinary bladder cancer (DOID:11054)": "A0191-1"
+    },
+    "A0192": {
+        "curr_id": 2,
+        "pancreatic cancer (DOID:1793)": "A0192-1",
+        "ovarian cancer (DOID:2394)": "A0192-2"
+    },
+    "A0193": {
+        "curr_id": 1,
+        "pancreatic cancer (DOID:1793)": "A0193-1"
+    },
+    "A0194": {
+        "curr_id": 1,
+        "pancreatic cancer (DOID:1793)": "A0194-1"
+    },
+    "A0195": {
+        "curr_id": 2,
+        "esophageal cancer (DOID:5041)": "A0195-1",
+        "liver cancer (DOID:3571)": "A0195-2"
+    },
+    "A0196": {
+        "curr_id": 1,
+        "urinary bladder cancer (DOID:11054)": "A0196-1"
+    },
+    "A0197": {
+        "curr_id": 1,
+        "pancreatic cancer (DOID:1793)": "A0197-1"
+    },
+    "A0198": {
+        "curr_id": 1,
+        "pancreatic cancer (DOID:1793)": "A0198-1"
+    },
+    "A0199": {
+        "curr_id": 1,
+        "pancreatic cancer (DOID:1793)": "A0199-1"
+    },
+    "A0200": {
+        "curr_id": 1,
+        "urinary bladder cancer (DOID:11054)": "A0200-1"
+    },
+    "A0201": {
+        "curr_id": 1,
+        "pancreatic cancer (DOID:1793)": "A0201-1"
+    },
+    "A0202": {
+        "curr_id": 1,
+        "pancreatic cancer (DOID:1793)": "A0202-1"
+    },
+    "A0203": {
+        "curr_id": 1,
+        "pancreatic cancer (DOID:1793)": "A0203-1"
+    },
+    "A0204": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0204-1"
+    },
+    "A0205": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0205-1"
+    },
+    "A0206": {
+        "curr_id": 1,
+        "colorectal cancer (DOID:9256)": "A0206-1"
+    },
+    "A0207": {
+        "curr_id": 1,
+        "colorectal cancer (DOID:9256)": "A0207-1"
+    },
+    "A0208": {
+        "curr_id": 1,
+        "colorectal cancer (DOID:9256)": "A0208-1"
+    },
+    "A0209": {
+        "curr_id": 1,
+        "colorectal cancer (DOID:9256)": "A0209-1"
+    },
+    "A0210": {
+        "curr_id": 1,
+        "colorectal cancer (DOID:9256)": "A0210-1"
+    },
+    "A0211": {
+        "curr_id": 1,
+        "esophageal cancer (DOID:5041)": "A0211-1"
+    },
+    "A0212": {
+        "curr_id": 1,
+        "esophageal cancer (DOID:5041)": "A0212-1"
+    },
+    "A0213": {
+        "curr_id": 1,
+        "esophageal cancer (DOID:5041)": "A0213-1"
+    },
+    "A0214": {
+        "curr_id": 3,
+        "esophageal cancer (DOID:5041)": "A0214-1",
+        "breast cancer (DOID:1612)": "A0214-2",
+        "thyroid gland cancer (DOID:1781)": "A0214-3"
+    },
+    "A0219": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0219-1"
+    },
+    "A0220": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0220-1"
+    },
+    "A0221": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0221-1"
+    },
+    "A0222": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0222-1"
+    },
+    "A0224": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0224-1"
+    },
+    "A0226": {
+        "curr_id": 1,
+        "liver cancer (DOID:3571)": "A0226-1"
+    },
+    "A0227": {
+        "curr_id": 1,
+        "head and neck cancer (DOID:11934)": "A0227-1"
+    },
+    "A0228": {
+        "curr_id": 1,
+        "esophageal cancer (DOID:5041)": "A0228-1"
+    },
+    "A0229": {
+        "curr_id": 1,
+        "esophageal cancer (DOID:5041)": "A0229-1"
+    },
+    "A0230": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0230-1"
+    },
+    "A0231": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0231-1"
+    },
+    "A0232": {
+        "curr_id": 2,
+        "prostate cancer (DOID:10283)": "A0232-1",
+        "stomach cancer (DOID:10534)": "A0232-2"
+    },
+    "A0233": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0233-1"
+    },
+    "A0234": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0234-1"
+    },
+    "A0235": {
+        "curr_id": 1,
+        "pancreatic cancer (DOID:1793)": "A0235-1"
+    },
+    "A0236": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0236-1"
+    },
+    "A0237": {
+        "curr_id": 1,
+        "liver cancer (DOID:3571)": "A0237-1"
+    },
+    "A0238": {
+        "curr_id": 1,
+        "liver cancer (DOID:3571)": "A0238-1"
+    },
+    "A0239": {
+        "curr_id": 1,
+        "skin cancer (DOID:4159)": "A0239-1"
+    },
+    "A0242": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0242-1"
+    },
+    "A0243": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0243-1"
+    },
+    "A0245": {
+        "curr_id": 1,
+        "liver cancer (DOID:3571)": "A0245-1"
+    },
+    "A0246": {
+        "curr_id": 1,
+        "liver cancer (DOID:3571)": "A0246-1"
+    },
+    "A0247": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0247-1"
+    },
+    "A0248": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0248-1"
+    },
+    "A0249": {
+        "curr_id": 1,
+        "esophageal cancer (DOID:5041)": "A0249-1"
+    },
+    "A0250": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0250-1"
+    },
+    "A0251": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0251-1"
+    },
+    "A0253": {
+        "curr_id": 1,
+        "liver cancer (DOID:3571)": "A0253-1"
+    },
+    "A0254": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0254-1"
+    },
+    "A0255": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0255-1"
+    },
+    "A0256": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0256-1"
+    },
+    "A0257": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0257-1"
+    },
+    "A0258": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0258-1"
+    },
+    "A0259": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0259-1"
+    },
+    "A0260": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0260-1"
+    },
+    "A0261": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0261-1"
+    },
+    "A0262": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0262-1"
+    },
+    "A0263": {
+        "curr_id": 1,
+        "lung cancer (DOID:1324)": "A0263-1"
+    },
+    "A0264": {
+        "curr_id": 1,
+        "lung cancer (DOID:1324)": "A0264-1"
+    },
+    "A0265": {
+        "curr_id": 1,
+        "lung cancer (DOID:1324)": "A0265-1"
+    },
+    "A0267": {
+        "curr_id": 1,
+        "lung cancer (DOID:1324)": "A0267-1"
+    },
+    "A0268": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0268-1"
+    },
+    "A0269": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0269-1"
+    },
+    "A0270": {
+        "curr_id": 1,
+        "skin cancer (DOID:4159)": "A0270-1"
+    },
+    "A0271": {
+        "curr_id": 1,
+        "skin cancer (DOID:4159)": "A0271-1"
+    },
+    "A0272": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0272-1"
+    },
+    "A0273": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0273-1"
+    },
+    "A0274": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0274-1"
+    },
+    "A0275": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0275-1"
+    },
+    "A0276": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0276-1"
+    },
+    "A0277": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0277-1"
+    },
+    "A0278": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0278-1"
+    },
+    "A0279": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0279-1"
+    },
+    "A0280": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0280-1"
+    },
+    "A0281": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0281-1"
+    },
+    "A0282": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0282-1"
+    },
+    "A0283": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0283-1"
+    },
+    "A0286": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0286-1"
+    },
+    "A0287": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0287-1"
+    },
+    "A0288": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0288-1"
+    },
+    "A0289": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0289-1"
+    },
+    "A0290": {
+        "curr_id": 1,
+        "thyroid gland cancer (DOID:1781)": "A0290-1"
+    },
+    "A0291": {
+        "curr_id": 1,
+        "thyroid gland cancer (DOID:1781)": "A0291-1"
+    },
+    "A0292": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0292-1"
+    },
+    "A0293": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0293-1"
+    },
+    "A0294": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0294-1"
+    },
+    "A0295": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0295-1"
+    },
+    "A0296": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0296-1"
+    },
+    "A0297": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0297-1"
+    },
+    "A0298": {
+        "curr_id": 2,
+        "ovarian cancer (DOID:2394)": "A0298-1",
+        "stomach cancer (DOID:10534)": "A0298-2"
+    },
+    "A0299": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0299-1"
+    },
+    "A0300": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0300-1"
+    },
+    "A0302": {
+        "curr_id": 1,
+        "thyroid gland cancer (DOID:1781)": "A0302-1"
+    },
+    "A0303": {
+        "curr_id": 1,
+        "thyroid gland cancer (DOID:1781)": "A0303-1"
+    },
+    "A0304": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0304-1"
+    },
+    "A0305": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0305-1"
+    },
+    "A0307": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0307-1"
+    },
+    "A0308": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0308-1"
+    },
+    "A0309": {
+        "curr_id": 2,
+        "ovarian cancer (DOID:2394)": "A0309-1",
+        "stomach cancer (DOID:10534)": "A0309-2"
+    },
+    "A0310": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0310-1"
+    },
+    "A0311": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0311-1"
+    },
+    "A0312": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0312-1"
+    },
+    "A0313": {
+        "curr_id": 1,
+        "thyroid gland cancer (DOID:1781)": "A0313-1"
+    },
+    "A0314": {
+        "curr_id": 1,
+        "thyroid gland cancer (DOID:1781)": "A0314-1"
+    },
+    "A0315": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0315-1"
+    },
+    "A0316": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0316-1"
+    },
+    "A0317": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0317-1"
+    },
+    "A0318": {
+        "curr_id": 2,
+        "thyroid gland cancer (DOID:1781)": "A0318-1",
+        "stomach cancer (DOID:10534)": "A0318-2"
+    },
+    "A0319": {
+        "curr_id": 1,
+        "thyroid gland cancer (DOID:1781)": "A0319-1"
+    },
+    "A0324": {
+        "curr_id": 2,
+        "thyroid gland cancer (DOID:1781)": "A0324-1",
+        "kidney cancer (DOID:263)": "A0324-2"
+    },
+    "A0325": {
+        "curr_id": 1,
+        "urinary bladder cancer (DOID:11054)": "A0325-1"
+    },
+    "A0329": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0329-1"
+    },
+    "A0330": {
+        "curr_id": 1,
+        "thyroid gland cancer (DOID:1781)": "A0330-1"
+    },
+    "A0331": {
+        "curr_id": 1,
+        "thyroid gland cancer (DOID:1781)": "A0331-1"
+    },
+    "A0332": {
+        "curr_id": 1,
+        "thyroid gland cancer (DOID:1781)": "A0332-1"
+    },
+    "A0333": {
+        "curr_id": 1,
+        "uterine cancer (DOID:363)": "A0333-1"
+    },
+    "A0334": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0334-1"
+    },
+    "A0335": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0335-1"
+    },
+    "A0336": {
+        "curr_id": 1,
+        "uterine cancer (DOID:363)": "A0336-1"
+    },
+    "A0337": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0337-1"
+    },
+    "A0338": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0338-1"
+    },
+    "A0339": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0339-1"
+    },
+    "A0340": {
+        "curr_id": 1,
+        "uterine cancer (DOID:363)": "A0340-1"
+    },
+    "A0341": {
+        "curr_id": 1,
+        "uterine cancer (DOID:363)": "A0341-1"
+    },
+    "A0342": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0342-1"
+    },
+    "A0344": {
+        "curr_id": 1,
+        "thyroid gland cancer (DOID:1781)": "A0344-1"
+    },
+    "A0345": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0345-1"
+    },
+    "A0346": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0346-1"
+    },
+    "A0347": {
+        "curr_id": 1,
+        "uterine cancer (DOID:363)": "A0347-1"
+    },
+    "A0348": {
+        "curr_id": 1,
+        "uterine cancer (DOID:363)": "A0348-1"
+    },
+    "A0349": {
+        "curr_id": 1,
+        "esophageal cancer (DOID:5041)": "A0349-1"
+    },
+    "A0350": {
+        "curr_id": 1,
+        "esophageal cancer (DOID:5041)": "A0350-1"
+    },
+    "A0351": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0351-1"
+    },
+    "A0352": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0352-1"
+    },
+    "A0353": {
+        "curr_id": 1,
+        "uterine cancer (DOID:363)": "A0353-1"
+    },
+    "A0354": {
+        "curr_id": 1,
+        "uterine cancer (DOID:363)": "A0354-1"
+    },
+    "A0355": {
+        "curr_id": 1,
+        "uterine cancer (DOID:363)": "A0355-1"
+    },
+    "A0356": {
+        "curr_id": 1,
+        "uterine cancer (DOID:363)": "A0356-1"
+    },
+    "A0357": {
+        "curr_id": 1,
+        "uterine cancer (DOID:363)": "A0357-1"
+    },
+    "A0358": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0358-1"
+    },
+    "A0359": {
+        "curr_id": 1,
+        "uterine cancer (DOID:363)": "A0359-1"
+    },
+    "A0360": {
+        "curr_id": 2,
+        "stomach cancer (DOID:10534)": "A0360-1",
+        "kidney cancer (DOID:263)": "A0360-2"
+    },
+    "A0361": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0361-1"
+    },
+    "A0362": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0362-1"
+    },
+    "A0363": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0363-1"
+    },
+    "A0364": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0364-1"
+    },
+    "A0365": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0365-1"
+    },
+    "A0366": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0366-1"
+    },
+    "A0367": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0367-1"
+    },
+    "A0368": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0368-1"
+    },
+    "A0370": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0370-1"
+    },
+    "A0371": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0371-1"
+    },
+    "A0372": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0372-1"
+    },
+    "A0373": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0373-1"
+    },
+    "A0374": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0374-1"
+    },
+    "A0375": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0375-1"
+    },
+    "A0376": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0376-1"
+    },
+    "A0377": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0377-1"
+    },
+    "A0378": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0378-1"
+    },
+    "A0379": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0379-1"
+    },
+    "A0380": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0380-1"
+    },
+    "A0381": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0381-1"
+    },
+    "A0382": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0382-1"
+    },
+    "A0383": {
+        "curr_id": 1,
+        "skin cancer (DOID:4159)": "A0383-1"
+    },
+    "A0384": {
+        "curr_id": 1,
+        "urinary bladder cancer (DOID:11054)": "A0384-1"
+    },
+    "A0385": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0385-1"
+    },
+    "A0386": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0386-1"
+    },
+    "A0388": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0388-1"
+    },
+    "A0389": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0389-1"
+    },
+    "A0390": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0390-1"
+    },
+    "A0391": {
+        "curr_id": 1,
+        "colorectal cancer (DOID:9256)": "A0391-1"
+    },
+    "A0392": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0392-1"
+    },
+    "A0393": {
+        "curr_id": 1,
+        "colorectal cancer (DOID:9256)": "A0393-1"
+    },
+    "A0394": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0394-1"
+    },
+    "A0395": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0395-1"
+    },
+    "A0396": {
+        "curr_id": 1,
+        "lung cancer (DOID:1324)": "A0396-1"
+    },
+    "A0397": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0397-1"
+    },
+    "A0398": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0398-1"
+    },
+    "A0399": {
+        "curr_id": 1,
+        "urinary bladder cancer (DOID:11054)": "A0399-1"
+    },
+    "A0400": {
+        "curr_id": 1,
+        "colorectal cancer (DOID:9256)": "A0400-1"
+    },
+    "A0403": {
+        "curr_id": 1,
+        "lung cancer (DOID:1324)": "A0403-1"
+    },
+    "A0404": {
+        "curr_id": 1,
+        "lung cancer (DOID:1324)": "A0404-1"
+    },
+    "A0405": {
+        "curr_id": 1,
+        "colorectal cancer (DOID:9256)": "A0405-1"
+    },
+    "A0406": {
+        "curr_id": 1,
+        "colorectal cancer (DOID:9256)": "A0406-1"
+    },
+    "A0407": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0407-1"
+    },
+    "A0408": {
+        "curr_id": 1,
+        "skin cancer (DOID:4159)": "A0408-1"
+    },
+    "A0409": {
+        "curr_id": 1,
+        "skin cancer (DOID:4159)": "A0409-1"
+    },
+    "A0410": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0410-1"
+    },
+    "A0411": {
+        "curr_id": 1,
+        "colorectal cancer (DOID:9256)": "A0411-1"
+    },
+    "A0412": {
+        "curr_id": 1,
+        "lung cancer (DOID:1324)": "A0412-1"
+    },
+    "A0413": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0413-1"
+    },
+    "A0414": {
+        "curr_id": 1,
+        "pancreatic cancer (DOID:1793)": "A0414-1"
+    },
+    "A0415": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0415-1"
+    },
+    "A0416": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0416-1"
+    },
+    "A0417": {
+        "curr_id": 1,
+        "colorectal cancer (DOID:9256)": "A0417-1"
+    },
+    "A0418": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0418-1"
+    },
+    "A0419": {
+        "curr_id": 1,
+        "brain cancer (DOID:1319)": "A0419-1"
+    },
+    "A0420": {
+        "curr_id": 1,
+        "brain cancer (DOID:1319)": "A0420-1"
+    },
+    "A0422": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0422-1"
+    },
+    "A0435": {
+        "curr_id": 1,
+        "liver cancer (DOID:3571)": "A0435-1"
+    },
+    "A0436": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0436-1"
+    },
+    "A0437": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0437-1"
+    },
+    "A0438": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0438-1"
+    },
+    "A0439": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0439-1"
+    },
+    "A0440": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0440-1"
+    },
+    "A0441": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0441-1"
+    },
+    "A0442": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0442-1"
+    },
+    "A0443": {
+        "curr_id": 1,
+        "kidney cancer (DOID:263)": "A0443-1"
+    },
+    "A0445": {
+        "curr_id": 3,
+        "COVID-19 (DOID:0080600)": "A0445-1",
+        "head and neck cancer (DOID:11934)": "A0445-2",
+        "diabetes mellitus (DOID:9351)": "A0445-3"
+    },
+    "A0446": {
+        "curr_id": 2,
+        "lung cancer (DOID:1324)": "A0446-1",
+        "COVID-19 (DOID:0080600)": "A0446-2"
+    },
+    "A0447": {
+        "curr_id": 1,
+        "liver cancer (DOID:3571)": "A0447-1"
+    },
+    "A0448": {
+        "curr_id": 13,
+        "urinary bladder cancer (DOID:11054)": "A0448-1",
+        "breast cancer (DOID:1612)": "A0448-2",
+        "cervical cancer (DOID:4362)": "A0448-3",
+        "colorectal cancer (DOID:9256)": "A0448-4",
+        "esophageal cancer (DOID:5041)": "A0448-5",
+        "hematologic cancer (DOID:2531)": "A0448-6",
+        "kidney cancer (DOID:263)": "A0448-7",
+        "liver cancer (DOID:3571)": "A0448-8",
+        "lung cancer (DOID:1324)": "A0448-9",
+        "prostate cancer (DOID:10283)": "A0448-10",
+        "thyroid gland cancer (DOID:1781)": "A0448-11",
+        "lymphoma (DOID:8584)": "A0448-12",
+        "COVID-19 (DOID:0080600)": "A0448-13"
+    },
+    "A0449": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0449-1"
+    },
+    "A0450": {
+        "curr_id": 2,
+        "diabetes mellitus (DOID:9351)": "A0450-1",
+        "COVID-19 (DOID:0080600)": "A0450-2"
+    },
+    "A0451": {
+        "curr_id": 1,
+        "head and neck cancer (DOID:11934)": "A0451-1"
+    },
+    "A0452": {
+        "curr_id": 1,
+        "head and neck cancer (DOID:11934)": "A0452-1"
+    },
+    "A0453": {
+        "curr_id": 1,
+        "head and neck cancer (DOID:11934)": "A0453-1"
+    },
+    "A0454": {
+        "curr_id": 1,
+        "uterine cancer (DOID:363)": "A0454-1"
+    },
+    "A0455": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0455-1"
+    },
+    "A0456": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0456-1"
+    },
+    "A0457": {
+        "curr_id": 1,
+        "pancreatic cancer (DOID:1793)": "A0457-1"
+    },
+    "A0458": {
+        "curr_id": 1,
+        "pancreatic cancer (DOID:1793)": "A0458-1"
+    },
+    "A0459": {
+        "curr_id": 1,
+        "uterine cancer (DOID:363)": "A0459-1"
+    },
+    "A0460": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0460-1"
+    },
+    "A0461": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0461-1"
+    },
+    "A0462": {
+        "curr_id": 1,
+        "urinary bladder cancer (DOID:11054)": "A0462-1"
+    },
+    "A0463": {
+        "curr_id": 1,
+        "urinary bladder cancer (DOID:11054)": "A0463-1"
+    },
+    "A0464": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0464-1"
+    },
+    "A0465": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0465-1"
+    },
+    "A0466": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0466-1"
+    },
+    "A0467": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0467-1"
+    },
+    "A0469": {
+        "curr_id": 1,
+        "thyroid gland cancer (DOID:1781)": "A0469-1"
+    },
+    "A0470": {
+        "curr_id": 1,
+        "liver cancer (DOID:3571)": "A0470-1"
+    },
+    "A0471": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0471-1"
+    },
+    "A0472": {
+        "curr_id": 1,
+        "lung cancer (DOID:1324)": "A0472-1"
+    },
+    "A0473": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0473-1"
+    },
+    "A0474": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0474-1"
+    },
+    "A0476": {
+        "curr_id": 1,
+        "uterine cancer (DOID:363)": "A0476-1"
+    },
+    "A0477": {
+        "curr_id": 1,
+        "lung cancer (DOID:1324)": "A0477-1"
+    },
+    "A0478": {
+        "curr_id": 1,
+        "lung cancer (DOID:1324)": "A0478-1"
+    },
+    "A0479": {
+        "curr_id": 1,
+        "urinary bladder cancer (DOID:11054)": "A0479-1"
+    },
+    "A0480": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0480-1"
+    },
+    "A0481": {
+        "curr_id": 1,
+        "COVID-19 (DOID:0080600)": "A0481-1"
+    },
+    "A0482": {
+        "curr_id": 2,
+        "breast cancer (DOID:1612)": "A0482-1",
+        "stomach cancer (DOID:10534)": "A0482-2"
+    },
+    "A0483": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0483-1"
+    },
+    "A0484": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0484-1"
+    },
+    "A0485": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0485-1"
+    },
+    "A0486": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0486-1"
+    },
+    "A0487": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0487-1"
+    },
+    "A0488": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0488-1"
+    },
+    "A0489": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0489-1"
+    },
+    "A0490": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0490-1"
+    },
+    "A0491": {
+        "curr_id": 1,
+        "liver cancer (DOID:3571)": "A0491-1"
+    },
+    "A0492": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0492-1"
+    },
+    "A0493": {
+        "curr_id": 1,
+        "stomach cancer (DOID:10534)": "A0493-1"
+    },
+    "A0494": {
+        "curr_id": 1,
+        "esophageal cancer (DOID:5041)": "A0494-1"
+    },
+    "A0495": {
+        "curr_id": 1,
+        "esophageal cancer (DOID:5041)": "A0495-1"
+    },
+    "A0496": {
+        "curr_id": 1,
+        "esophageal cancer (DOID:5041)": "A0496-1"
+    },
+    "A0497": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0497-1"
+    },
+    "A0498": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0498-1"
+    },
+    "A0499": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0499-1"
+    },
+    "A0500": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0500-1"
+    },
+    "A0501": {
+        "curr_id": 1,
+        "colorectal cancer (DOID:9256)": "A0501-1"
+    },
+    "A0502": {
+        "curr_id": 1,
+        "breast cancer (DOID:1612)": "A0502-1"
+    },
+    "A0503": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0503-1"
+    },
+    "A0504": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0504-1"
+    },
+    "A0505": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0505-1"
+    },
+    "A0506": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0506-1"
+    },
+    "A0507": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0507-1"
+    },
+    "A0508": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0508-1"
+    },
+    "A0509": {
+        "curr_id": 1,
+        "ovarian cancer (DOID:2394)": "A0509-1"
+    },
+    "A0510": {
+        "curr_id": 1,
+        "prostate cancer (DOID:10283)": "A0510-1"
+    }
+}
